@@ -19,10 +19,10 @@ Click on each phase below for a deep dive into how you can tackle them according
      alt=""
      style="float: left; margin-right: 10px;" /></a>
 
-<a href="/jekyll-gitbook/jekyll/2019-04-29-license.html"><img src="assets/gitbook/images/submit.svg"
+<a href="/jekyll-gitbook/jekyll/2019-04-29-submitting.html"><img src="assets/gitbook/images/submit.svg"
      alt=""
      style="float: left; margin-right: 10px;" /></a>
 
-<a href="/jekyll-gitbook/jekyll/2021-08-10-toc.html"><img src="assets/gitbook/images/before.svg"
+<a href="/jekyll-gitbook/jekyll/2021-08-10-publishing.html"><img src="assets/gitbook/images/before.svg"
      alt=""
      style="float: left; margin-right: 10px;" /></a>
