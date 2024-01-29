@@ -16,6 +16,8 @@
             <div class="search-noresults">
                 <section class="normal markdown-section">
 
+                    {{ content }}
+
                     {%- if jekyll.environment != 'dev' and site.disqushandler -%}
                         {%- include disqus.html -%}
                     {%- endif -%}
