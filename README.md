@@ -15,7 +15,7 @@ Click on each phase below for a deep dive into how you can tackle them according
      alt=""
      style="float: left; margin-right: 10px;" /></a>
 
-<a href="/jekyll-gitbook/jekyll/2019-04-28-howto.html"><img src="assets/gitbook/images/during.svg"
+<a href="/jekyll-gitbook/jekyll/2019-04-28-during_research.html"><img src="assets/gitbook/images/during.svg"
      alt=""
      style="float: left; margin-right: 10px;" /></a>
 
