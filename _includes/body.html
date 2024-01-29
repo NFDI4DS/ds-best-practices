@@ -1,10 +1,13 @@
 <div class="page-wrapper" tabindex="-1" role="main">
     {% if page.cover %}
-        <img src="{{ page.cover }}"
-             width="100%"
-             height="{{ page.cover_height | default: '100%' }}"
+       <img src="{{ page.cover }}"
+             width="60%"
+             height="{{ page.cover_height | default: '60%' }}"
              alt="{{ page.title | escape }}"
-             style="object-fit: cover;"
+             style="
+             display: block;
+             margin-left: auto;
+             margin-right: auto;"
         />
     {% endif %}
 
