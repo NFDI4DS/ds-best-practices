@@ -8,6 +8,15 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
                 window.open('http://www.facebook.com/sharer/sharer.php?s=100&p[url]='+encodeURIComponent(location.href));
             }
         },
+        'home': {
+            'label': 'Home',
+            'icon': 'fa fa-home',
+            'onClick': function(e) {
+                e.preventDefault();
+                window.open('https://www.nfdi4datascience.de/');
+            }
+        },
+        
         'linkedin': {
             'label': 'Linkedin',
             'icon': 'fa fa-linkedin',
