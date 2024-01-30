@@ -12,8 +12,6 @@ Are you at the very beginning of your research project?
 
 In this section, you will find recommendations for planing and starting **FAIR**[^1] [^2] [^3] research in Data Science (DS) and Artificial Intelligence (AI). Here and in the next phases, we will focus on how to ensure FAIRness of DS and AI digital artifacts such as **(meta)data**, **models**, **code**, **software** and **(research) knowledge graphs**. The figure below presents the key questions to be addressed before proceeding with any DS and AI project. Those are aimed to serve as a reference when you plan the project and as a checklist before you start the actual research. 
 
-**Note**: The best practices introduced here for (meta)data, code, etc. apply to (research) knowledge graphs as well. Therefore, to avoid redundancy we don't provide a separate section for those.
-
 [^1]: [<span style="color:blue">FAIR Guiding Principles for scientific data management and stewardship</span>](https://www.go-fair.org/fair-principles/)
 [^2]: [<span style="color:blue">FAIR Principles for Research Software (FAIR4RS Principles)</span>](https://zenodo.org/record/6623556#.ZGHxauxBwUE)
 [^3]: [<span style="color:blue">Introducing the FAIR Principles for research software</span>](https://www.nature.com/articles/s41597-022-01710-x)
@@ -54,7 +52,24 @@ Consider the following **data search and collection services:**
 * [<span style="color:blue">Software Heritage</span>](https://www.softwareheritage.org)
 * [<span style="color:blue">ELG</span>](https://live.european-language-grid.eu)
 3.  Assess **resources required**, e.g., computational costs for running and storing the code/model/software.
-4. Decide on **storage**, **security**, **sharing** (e.g., with collaborators) and **preservation** strategy during and after the project. 
+4. Decide on **storage**, **security**, **sharing** (e.g., with collaborators) and **preservation** strategy during and after the project.
+
+## (RESEARCH) KNOWLEDGE GRAPHS
+--------------------------------------------------------------------------------------------
+
+1. Decide whether **pre-existing data** can be used and/or **raw data** should be collected.
+2. Define the **goal** for data collection/reuse.
+3. Before starting to collect/reuse data, assess whether it is a subject to **privacy/legal/ethical/copyright restriction** (see Sec. Legal/ethical considerations under Submission). 
+4. In case of data collection:
+* Plan an **approach** and **methods** (how data will be collected, the duration of the data collection, etc.).
+* Decide on **metadata**, **ontologies** and the way data **documentation** will be provided.
+5. Decide whether **existing code/software/models** can be used. Before using an existing resource, check its **implementation conditions** (e.g., have a look at its licence type). Consider the following code/models/software **search services:**
+* [<span style="color:blue">Hugging Face Models</span>](https://huggingface.co/models)
+* [<span style="color:blue">SourceForge</span>](https://sourceforge.net)
+* [<span style="color:blue">Software Heritage</span>](https://www.softwareheritage.org)
+* [<span style="color:blue">ELG</span>](https://live.european-language-grid.eu)
+6. Decide on the data **storage**, **security**, **sharing** (e.g., with collaborators) and **preservation** strategy during and after the project.
+7. Assess **resources required**, e.g., computational costs for collecting, storing and pre-processing data, expenses on annotators, etc. 
 
 ## PUBLICATION VENUE
 --------------------------------------------------------------------------------------------
