@@ -59,7 +59,7 @@ Consider the following **data search and collection services:**
 ## (RESEARCH) KNOWLEDGE GRAPHS
 --------------------------------------------------------------------------------------------
 
-1. Decide whether **existing data/code/models/software** can be used and/or **new data/code/models/software** should be collected/designed for KG development.
+1. Decide whether **existing** and/or **new** data, code, models, software should be used for KG development.
 2. Decide on the **storage**, **security**, **sharing** (e.g., with collaborators) and **preservation** strategy during and after the project.
 3. Assess **resources required**, e.g., computational costs for collecting, storing and pre-processing data, expenses on annotators, etc. 
 
