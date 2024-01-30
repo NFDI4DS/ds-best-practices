@@ -1,4 +1,6 @@
             "sharing": {
+                 "home": true, 
+
                 "facebook": false,
 
                 "google": false,
