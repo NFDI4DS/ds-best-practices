@@ -16,7 +16,7 @@ In this section, you will find recommendations for planing and starting **FAIR**
 [^2]: [<span style="color:blue">FAIR Principles for Research Software (FAIR4RS Principles)</span>](https://zenodo.org/record/6623556#.ZGHxauxBwUE)
 [^3]: [<span style="color:blue">Introducing the FAIR Principles for research software</span>](https://www.nature.com/articles/s41597-022-01710-x)
 
-<img src="../assets/gitbook/images/fig.jpeg"
+<img src="../assets/gitbook/images/before_fig.jpeg"
      alt=""
      style="float: left; margin-right: 10px;" />
 
