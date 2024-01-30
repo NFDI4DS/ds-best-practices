@@ -1,5 +1,4 @@
             "sharing": {
-                "home": true, 
 
                 "facebook": false,
 
@@ -22,4 +21,6 @@
                 "linkedin": true, 
 
                 "youtube": true,
+
+                "home": true
             },
