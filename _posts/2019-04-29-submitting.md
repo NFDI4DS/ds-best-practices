@@ -157,12 +157,26 @@ In case you report biases make sure to:
 
 
 ## (RESEARCH) KNOWLEDGE GRAPHS
--------------------------------------------------------------------------------------------- 
-Make your KG publicly **available**: 
-1. Publish your KG under an **open access licence**.
-2. Assign a **unique identifier (URI)** to every entity in the Knowledge Graph (KG).
-3. Select and use a **standardized knowledge representation language** (e.g. RDF, OWL, DAML+OIL or JSON LD).
-4. Normalize the types and relations using an appropriate **vocabulary/ontology**. Assign URI to your ontologies to make them accessible and easy to differentiate from already existing vocabularies:
+--------------------------------------------------------------------------------------------
+
+### Motivation
+State the **reason** for creating or re-using a KG, e.g., for specific task(s), a gap in the research field that needed to be filled, etc.
+
+### Data and code/models/software
+1. Provide **information on data** used for KG development.
+2. Describe **data collection and pre-processing** processes. If you used existing data, **cite the original work**.
+3. State **instances type/format** (e.g., text documents, images, videos, audio files; pdfs, csvs, html, etc.).
+4. Make sure to report the **language of any linguistic data**, even if you are reusing common datasets or benchmarks (**#benderrule**).
+5. Provide information about the total **number of observations** and (if applicable) **label distribution**.
+6. Provide information on models/code/software used for KG development. State **names**, **versions**, **parameters**, **hyper-parameters**, **methods** and if applicable, the exact **number of training and evaluation runs**. If you used existing packages, **cite the original work**.
+
+
+### Distribution 
+1. Make your KG publicly **available**: 
+2. Publish your KG under an **open access licence**.
+3. Assign a **unique identifier (URI)** to every entity in the Knowledge Graph (KG).
+4. Select and use a **standardized knowledge representation language** (e.g. RDF, OWL, DAML+OIL or JSON LD).
+5. Normalize the types and relations using an appropriate **vocabulary/ontology**. Assign URI to your ontologies to make them accessible and easy to differentiate from already existing vocabularies:
   * Use **permanent URIs**, ensuring its long term availability. Permanent URIs redirect to the actual point of storage of the target resource. Thus, even if the target resource is moved, only its location should be updated but not its URL.
   * Choose a **short and simple name** to make it easy for others to remember.
   * Make sure that the **name** of your ontology **does not overlap** with the existing vocabularies.
@@ -171,10 +185,15 @@ Make your KG publicly **available**:
 * Provide **human-readable documentation** (e.g., as HTML). For instance, as a starting point you can use [<span style="color:blue">WIDOCO</span>](https://github.com/dgarijo/Widoco) for documentation generation.
 * Create a **visualization** for your ontology. A graphical representation will contribute to better understanding of ontology structure, relationships and usage. 
 * Make the ontology along with its documentation **available for the community**. Use either domain-specific or domain-generic registry (e.g., [<span style="color:blue">Linked Open Vocabularies</span>](https://lov.linkeddata.es/dataset/lov/)).
-5. Provide **metadata** for your KG:
+6. Provide **metadata** for your KG:
 * Document the **provenance and context** of each assertion of your KG.
 * Use common **metadata schemas** (e.g., [<span style="color:blue">schema.org</span>](https://schema.org)).
 * If possible, state the **number of triples**, **language** and **vocabularies** used, **metamap**, etc.
-6. If applicable, make **links to other published resources**.
-7. Publish related (meta)data in an appropriate **certified archive** (e.g., [<span style="color:blue">figshare</span>](https://figshare.com), [<span style="color:blue">Zenodo</span>](https://zenodo.org), etc.) and provide a **link/DOI** in your paper. 
-8. Create programmatic **access points** via APIs.
+7. If applicable, make **links to other published resources**.
+8. Publish related (meta)data in an appropriate **certified archive** (e.g., [<span style="color:blue">figshare</span>](https://figshare.com), [<span style="color:blue">Zenodo</span>](https://zenodo.org), etc.) and provide a **link/DOI** in your paper. 
+9. Create programmatic **access points** via APIs.
+
+### Maintenance 
+1. Provide information on **who is supporting/hosting/maintaining** a KG (e.g., email address, DOI etc.).
+2. State whether a **KG will be updated**. If yes, describe how often and by whom updates will be maintained as well how they will be documented and communicated (e.g., mailing list, GitHub). Do not forget about **VC**.
+3. If applicable, describe **how others could extend/augment/build on** your KG (e.g., through pull requests on GitHub). State what the process is for tracking/assessing the quality of such contributions.
