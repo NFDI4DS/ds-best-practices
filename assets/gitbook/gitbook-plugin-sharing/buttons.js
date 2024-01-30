@@ -8,6 +8,22 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
                 window.open('http://www.facebook.com/sharer/sharer.php?s=100&p[url]='+encodeURIComponent(location.href));
             }
         },
+        'linkedin': {
+            'label': 'Linkedin',
+            'icon': 'fa fa-linkedin',
+            'onClick': function(e) {
+                e.preventDefault();
+                window.open('https://www.linkedin.com/company/nfdi4ds/');
+            }
+        },
+        'youtube': {
+            'label': 'YouTube',
+            'icon': 'fa fa-youtube-play',
+            'onClick': function(e) {
+                e.preventDefault();
+                window.open('https://www.youtube.com/@nfdi4ds');
+            }
+        },
         'twitter': {
             'label': 'Twitter',
             'icon': 'fa fa-twitter',
