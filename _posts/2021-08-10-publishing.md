@@ -5,6 +5,10 @@ layout: post
 cover: ../assets/gitbook/images/publish.svg
 ---
 
+Are you ready to publish your paper?
+
+In this section, you will find a few recommendations for submitting the final version of your paper.
+
 ## CAMERA READY
 --------------------------------------------------------------------------------------------
 
