@@ -16,4 +16,8 @@
                 "vk": false,
 
                 "weibo": false,
+
+                "linkedin": true, 
+
+                "youtube": true,
             },
