@@ -1,5 +1,5 @@
             "sharing": {
-                 "home": true, 
+                "home": true, 
 
                 "facebook": false,
 
