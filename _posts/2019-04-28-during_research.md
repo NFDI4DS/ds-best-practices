@@ -41,7 +41,7 @@ In this section, you will find recommendations on how to ensure FAIRness of DS a
 
 ## (RESEARCH) KNOWLEDGE GRAPHS
 --------------------------------------------------------------------------------------------
-1. Don’t forget about **Version Control** and backups to keep track of changes and to avoid data loss.
+1. Don’t forget about **VC** and backups to keep track of changes and to avoid data loss.
 2. If the KG is planned to be shared with the community, **preserve** a version of the **raw data**. This way other researchers will be able to pre-preprocess and use it according to their study goals.
 3. In case of data with **sensitive/confidential/personal information**:
 * Strong **security measures** must be taken to prevent data breaches and leakages. Some of the best practices for data protection can be found [<span style="color:blue">here</span>](https://rdmkit.elixir-europe.org/data_protection). 
