@@ -4,6 +4,16 @@ category: Jekyll
 layout: post
 cover: ../assets/gitbook/images/submit.svg
 ---
+--------------------------------------------------------------------------------------------
+
+Have you already started your research project?
+
+In this section, you will find recommendations on how to ensure FAIRness of DS and AI digital artifacts during your research. The figure below presents the key questions to be addressed at this phase. Note: The questions under (meta)data as well as code/models/software apply to RKGs as well. Therefore, to avoid redundancy we did not include a seperate node for RKGs in the figure.
+
+<img src="../assets/gitbook/images/submission_fig.jpeg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+
 
 ## VENUE REQUIREMENTS
 --------------------------------------------------------------------------------------------
