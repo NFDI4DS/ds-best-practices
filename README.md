@@ -23,6 +23,6 @@ Click on each phase below for a deep dive into how you can tackle them according
      alt=""
      style="float: left; margin-right: 10px; margin-bottom: 10px;" /></a>
 
-<a href="https://nfdi4ds.github.io/ds-best-practices/jekyll/2021-08-10-publishing.html"><img src="assets/gitbook/images/before-home.png"
+<a href="https://nfdi4ds.github.io/ds-best-practices/jekyll/2021-08-10-publishing.html"><img src="assets/gitbook/images/publish-home.png"
      alt=""
      style="float: left; margin-right: 10px; margin-bottom: 10px;" /></a>
