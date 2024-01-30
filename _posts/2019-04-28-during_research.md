@@ -25,7 +25,7 @@ cover: ../assets/gitbook/images/during.svg
 
 1. Follow **clean code principles**[^1], e.g., include unit tests.
 2. Don’t forget to save all your **intermediate research results** (e.g., evaluation scores along with model parameters) for future analysis.
-3. Use **Version Control (VC)** and external backups to keep track of changes and to avoid data loss.
+3. Use **Version Control (VC)** and **external backups** to keep track of changes and to avoid data loss.
 4. Constantly check **energy consumption**. For instance, you can use the [<span style="color:blue">CodeCarbon</span>](https://codecarbon.io) package which estimates the amount of carbon dioxide produced by computing resources and provides some tips on how to decrease emissions.
 
 [^1]: [<span style="color:blue">R. C. Martin.  "Clean Code: A Handbook of Agile Software Craftsmanship," Prentice Hall, Boston, 2008.</span>](https://www.amazon.de/-/en/Robert-Martin/dp/0132350882)
