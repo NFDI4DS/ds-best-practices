@@ -10,7 +10,9 @@ cover: ../assets/gitbook/images/before.svg
 
 Are you at the very beginning of your research project?
 
-In this section, you will find recommendations for planing and starting **FAIR**[^1] [^2] [^3] research in Data Science (DS) and Artificial Intelligence (AI). Here and in the next phases, we will focus on how to ensure FAIRness of DS and AI digital artifacts such as **(meta)data**, **models**, **code**, **software** and **(research) knowledge graphs (RKGs)**. The figure below presents the key questions to be addressed before proceeding with any DS and AI project. Those are aimed to serve as a reference when you plan the project and as a checklist before you start the actual research. **Note**: The questions under (meta)data as well as code/models/software apply to RKGs as well. Therefore, to avoid redundancy we did not include a seperate node for RKGs in the figure.
+In this section, you will find recommendations for planing and starting **FAIR**[^1] [^2] [^3] research in Data Science (DS) and Artificial Intelligence (AI). Here and in the next phases, we will focus on how to ensure FAIRness of DS and AI digital artifacts such as **(meta)data**, **models**, **code**, **software** and **(research) knowledge graphs (RKGs)**. 
+
+The figure below presents the key questions to be addressed before proceeding with any DS and AI project. Those are aimed to serve as a reference when you plan the project and as a checklist before you start the actual research. Note: The questions under (meta)data as well as code/models/software apply to RKGs as well. Therefore, to avoid redundancy we did not include a seperate node for RKGs in the figure.
 
 [^1]: [<span style="color:blue">FAIR Guiding Principles for scientific data management and stewardship</span>](https://www.go-fair.org/fair-principles/)
 [^2]: [<span style="color:blue">FAIR Principles for Research Software (FAIR4RS Principles)</span>](https://zenodo.org/record/6623556#.ZGHxauxBwUE)
