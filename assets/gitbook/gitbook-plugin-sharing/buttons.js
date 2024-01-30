@@ -16,7 +16,6 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
                 window.open('https://www.nfdi4datascience.de/');
             }
         },
-        
         'linkedin': {
             'label': 'Linkedin',
             'icon': 'fa fa-linkedin',
