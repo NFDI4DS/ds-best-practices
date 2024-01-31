@@ -9,7 +9,7 @@ Are you ready to publish your paper?
 
 In this section, you will find a few recommendations for submitting the final version of your paper.
 
-## CAMERA READY
+### CAMERA READY
 --------------------------------------------------------------------------------------------
 
 1. Make sure to **address all comment**s from reviewers. If any additional calculations, training, etc. were performed, ensure that relevant information is updated not only in the paper but also in the documentation for (meta)data, software, model, code.
