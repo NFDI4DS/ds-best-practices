@@ -15,7 +15,7 @@ The recommendations are aligned with the typical research timeline associated wi
 4. Paper publication
 
 
-## Authors
+### Authors
 --------------------------------------------------------------------------------------------
 
 Ekaterina Borisova
@@ -25,7 +25,7 @@ Raia Abu Ahmad
 Georg Rehm
 
 
-## To cite
+### To cite
 --------------------------------------------------------------------------------------------
 
 @inproceedings{borisova2023a,
@@ -44,7 +44,7 @@ Georg Rehm
   month = 9
 }
 
-## Acknowledgements
+### Acknowledgements
 --------------------------------------------------------------------------------------------
 
 This work is part of the project NFDI for Data Science and Artificial Intelligence [(NFDI4DS)](https://www.nfdi4datascience.de), part of the German national research data initiative (or Nationale Forschungsdateninfrastruktur, [NFDI)](https://www.nfdi.de/?) aiming to support all steps of the research data life cycle including collecting, creating, comparing, processing, analysing, publishing, archiving, and reusing resources in Data Science and Artificial Intelligence.
