@@ -15,7 +15,7 @@ In this section, you will find recommendations on how to ensure FAIRness of DS a
      style="float: left; margin-right: 10px;" />
 
 
-## VENUE REQUIREMENTS
+### VENUE REQUIREMENTS
 --------------------------------------------------------------------------------------------
 
 Make sure that all journal/conference **submission requirements are met**, e.g.,:
@@ -29,7 +29,7 @@ Make sure that all journal/conference **submission requirements are met**, e.g.,
 2. If applicable, do not forget to include an **ethical statement**.
 3. In case you are using LaTeX, make sure to **label your contributions** (e. g., research problem, objective, method, etc.) in the LaTeX file using the [<span style="color:blue">SciKGTeX</span>](https://ctan.org/pkg/scikgtex?lang=en) package. This will allow an automatic extraction and import of mentioned metadata to any Research KG (RKG).
 
-## DATA AND METADATA
+### DATA AND METADATA
 --------------------------------------------------------------------------------------------
 
 ### Motivation
@@ -156,7 +156,7 @@ In case you report biases make sure to:
 4. Describe **potential sources** of biases. Make sure to focus on a broad range of those but not just on model predictions (e.g., task definitions, annotation guidelines, and evaluation metrics).
 
 
-## (RESEARCH) KNOWLEDGE GRAPHS
+### (RESEARCH) KNOWLEDGE GRAPHS
 --------------------------------------------------------------------------------------------
 
 ### Motivation
