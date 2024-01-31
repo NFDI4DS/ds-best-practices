@@ -13,5 +13,5 @@ Click on each phase below for a deep dive into how you can tackle them according
 <div style="margin-top: 10px;">
 <img src="assets/gitbook/images/best-practices-rounded.png"
      alt=""
-     style="align: center; margin-right: 10px; margin-bottom: 10px; width: 1500px;" />
+     style="align: center; margin-right: 10px; margin-bottom: 10px; width: 100%;" />
 </div>
