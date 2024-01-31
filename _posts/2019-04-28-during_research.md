@@ -16,7 +16,7 @@ In this section, you will find recommendations on how to ensure FAIRness of DS a
      style="float: left; margin-right: 10px;" />
 
 
-## DATA AND METADATA
+### DATA AND METADATA
 --------------------------------------------------------------------------------------------
 
 1. Don’t forget about **Data Version Control (DVC)** and backups to keep track of changes and to avoid data loss.
@@ -31,7 +31,7 @@ In this section, you will find recommendations on how to ensure FAIRness of DS a
 * Identify **annotation efforts** required (How many annotators? Experts vs crowdworkes?).
 * Decide on **Inter Annotator Agreement (IAA)** measures.
 
-## CODE, MODELS AND SOFTWARE
+### CODE, MODELS AND SOFTWARE
 --------------------------------------------------------------------------------------------
 
 1. Follow **clean code principles**[^1], e.g., include unit tests.
