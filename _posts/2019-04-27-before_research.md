@@ -10,9 +10,11 @@ cover: ../assets/gitbook/images/before.svg
 
 Are you at the very beginning of your research project?
 
-In this section, you will find recommendations for planing and starting **FAIR**[^1] [^2] [^3] research in Data Science (DS) and Artificial Intelligence (AI). Here and in the next phases, we will focus on how to ensure FAIRness of DS and AI digital artifacts such as **(meta)data**, **models**, **code**, **software** and **(research) knowledge graphs (KGs)**. 
+In this section, you will find recommendations for planning and starting **FAIR**[^1] [^2] [^3] research in Data Science (DS) and Artificial Intelligence (AI). Here and in the next phases, we will focus on how to ensure FAIRness of DS and AI digital artifacts such as **(meta)data**, **models**, **code**, **software** and **(research) knowledge graphs (KGs)**. 
 
 The figure below presents the key questions to be addressed before proceeding with any DS and AI project. Those are aimed to serve as a reference when you plan the project and as a checklist before you start the actual research. Note: The questions under (meta)data as well as code/models/software apply to KGs as well. Therefore, to avoid redundancy we did not include a seperate node for KGs in the figure.
+
+**Note**: Recommendation under (meta)data as well as code/models/software apply to KGs as well. Therefore, to avoid redundancy we did not include a separate section and node for KGs in the text and figure, respectively. This is also relevant for the next during the research stage.
 
 [^1]: [<span style="color:blue">FAIR Guiding Principles for scientific data management and stewardship</span>](https://www.go-fair.org/fair-principles/)
 [^2]: [<span style="color:blue">FAIR Principles for Research Software (FAIR4RS Principles)</span>](https://zenodo.org/record/6623556#.ZGHxauxBwUE)
@@ -22,7 +24,7 @@ The figure below presents the key questions to be addressed before proceeding wi
      alt=""
      style="float: left; margin-right: 10px;" />
 
-## DATA AND METADATA
+### DATA AND METADATA
 --------------------------------------------------------------------------------------------
 
 1. Decide whether **pre-existing data** can be used and/or **raw data** should be collected.
@@ -45,7 +47,7 @@ Consider the following **data search and collection services:**
 * [<span style="color:blue">ELG</span>](https://live.european-language-grid.eu)
 * Additional useful data collection services are available under *"I want to collect/create data"* and *"I want to reuse data"* on [<span style="color:blue">NFDI4DS</span>](https://www.nfdi4datascience.de/services/) webpage.
 
-## CODE, MODELS AND SOFTWARE
+### CODE, MODELS AND SOFTWARE
 --------------------------------------------------------------------------------------------
 
 1. Decide whether **existing code/software/models** can be used. Before using an existing resource, check its **implementation conditions** (e.g., have a look at its licence type). Consider the following code/models/software **search services:**
@@ -56,14 +58,7 @@ Consider the following **data search and collection services:**
 3.  Assess **resources required**, e.g., computational costs for running and storing the code/model/software.
 4. Decide on **storage**, **security**, **sharing** (e.g., with collaborators) and **preservation** strategy during and after the project.
 
-## (RESEARCH) KNOWLEDGE GRAPHS
---------------------------------------------------------------------------------------------
-
-1. Decide whether **existing** and/or **new** data, code, models, software should be used for KG development.
-2. Decide on the **storage**, **security**, **sharing** (e.g., with collaborators) and **preservation** strategy during and after the project.
-3. Assess **resources required**, e.g., computational costs for collecting, storing and pre-processing data, expenses on annotators, etc. 
-
-## PUBLICATION VENUE
+### PUBLICATION VENUE
 --------------------------------------------------------------------------------------------
 
 Find and select the suitable publication venue in advance. 
