@@ -18,14 +18,12 @@ The recommendations are aligned with the typical research timeline associated wi
 ### Authors
 --------------------------------------------------------------------------------------------
 
-Ekaterina Borisova (Deutsches Forschungszentrum für Künstliche Intelligenz, Germany)[^1]
-- **ORCID:** [0000-0002-1234-5678][^1]
+Ekaterina Borisova (Deutsches Forschungszentrum für Künstliche Intelligenz, Germany)
 
 Raia Abu Ahmad (Deutsches Forschungszentrum für Künstliche Intelligenz, Germany)
 
 Georg Rehm (Deutsches Forschungszentrum für Künstliche Intelligenz, Germany)
 
-[^1]: <img src="../assets/gitbook/images/ORCIDiD_icon16x16.png" width="16" height="16"> [https://orcid.org/0000-0002-1234-5678](https://orcid.org/0000-0002-3447-9860)
 
 
 ### To cite
