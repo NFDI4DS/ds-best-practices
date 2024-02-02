@@ -55,7 +55,7 @@ Georg Rehm [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.pn
 ### Acknowledgements
 --------------------------------------------------------------------------------------------
 
-This work was supported by the consortium NFDI for Data Science and Artificial Intelligence ([NFDI4DS](https://www.nfdi4datascience.de)) as part of the non-profit association National Research Data Infrastructure ([NFDI](https://www.nfdi.de/?) e.V.). The NFDI is funded by the Federal Republic of Germany and its states. The paper received funding through the German Research Foundation (DFG) project NFDI4DS (no. 460234259). The authors wish to thank both for fund- ing and support. A special thanks goes to all institutions and actors engaging for the association and its goals
+This work was supported by the consortium NFDI for Data Science and Artificial Intelligence ([NFDI4DS](https://www.nfdi4datascience.de)) as part of the non-profit association National Research Data Infrastructure ([NFDI](https://www.nfdi.de/?) e.V.). The NFDI is funded by the Federal Republic of Germany and its states. The paper received funding through the German Research Foundation (DFG) project NFDI4DS (no. 460234259). The authors wish to thank both for funding and support. A special thanks goes to all institutions and actors engaging for the association and its goals
 
 ### References
 --------------------------------------------------------------------------------------------
