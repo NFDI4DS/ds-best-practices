@@ -6,7 +6,7 @@ layout: post
 
 ### About
 --------------------------------------------------------------------------------------------
-In the past years, scientific research in Data Science (DS) and Artificial Intelligence (AI) has witnessed vast progress. The number of published papers and digital objects (e.g., data, code, models) is growing exponentially[^1] [^2]. However, not all research artefacts fulfill the criteria of being <span style="background-color: #33FFC4">*findable*</span>, <span style="background-color: #33FFC4">*accessible*</span>, <span style="background-color: #33FFC4">*interoperable*</span> and <span style="background-color: #33FFC4">*reusable*</span> (FAIR)[^3], contributing to a rather low level of reproducibility of experimental findings reported in scholarly publications and to the reproducibility crisis.
+In the past years, scientific research in Data Science (DS) and Artificial Intelligence (AI) has witnessed vast progress. The number of published papers and digital objects (e.g., data, code, models) is growing exponentially[^1] [^2]. However, not all research artefacts fulfill the criteria of being *findable*, *accessible*, *interoperable* and *reusable* (FAIR)[^3], contributing to a rather low level of reproducibility of experimental findings reported in scholarly publications and to the reproducibility crisis.
 
 [^1]: [Fortunato, S., Bergstrom, C.T., Börner, K., Evans, J.A., Helbing, D., Milojević, S., Petersen, A.M., Radicchi, F., Sinatra, R., Uzzi, B., Vespignani, A., Waltman, L., Wang, D., Barabási. A.L. Science of science. Science. 2018 Mar 2;359(6379):eaao0185. doi: 10.1126/science.aao0185. PMID: 29496846; PMCID: PMC5949209](https://doi.org/10.1126/science.aao0185)
 
