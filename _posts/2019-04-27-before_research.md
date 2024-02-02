@@ -93,7 +93,7 @@ Before diving into the best practices, first try to answer the questions present
 4. Make sure to pick a publication venue that provides full Open Access to the eventual paper:
 * Check the author and copyright policies of the journal/proceedings of the conference. Ideally, the venue permits authors to retain their copyright, meaning that authors are allowed to reuse, distribute, and republish their work. 
 
->### Summary
+>### tl;dr
 ><span style="font-size: 1.1em;"><strong>(Meta)data:</strong><span>
 >
 >Decide where your data is from, and then make sure it has the right license! If you want to create new data, consider your method, documentation strategy, and storing/preservation mechanism carefully. Don’t forget to assess the required human/computational resources needed for your data. 
