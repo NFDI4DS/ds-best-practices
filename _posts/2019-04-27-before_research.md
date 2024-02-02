@@ -39,7 +39,7 @@ Before diving into the best practices, first try to answer the questions present
 
 1. Decide whether pre-existing data can be used and/or raw data should be collected.
 2. Define the goal for data collection/reuse.
-3. Before starting to collect/reuse data, assess whether it is a subject to privacy/legal/ethical/copyright restrictions (see [Submission](http://127.0.0.1:4000/jekyll-gitbook/jekyll/2019-04-29-submitting.html)). 
+3. Before starting to collect/reuse data, assess whether it is a subject to privacy/legal/ethical/copyright restrictions (see [Submitting Your Research](http://127.0.0.1:4000/jekyll-gitbook/jekyll/2019-04-29-submitting.html)). 
 4. In case of data collection:
 * Plan an approach and methods (i.e, how data will be collected, the duration of the data collection, etc.).
 * Decide on metadata, ontologies and the way data documentation will be provided.
