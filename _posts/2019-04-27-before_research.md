@@ -29,8 +29,8 @@ Before diving into the best practices, first try to answer the questions present
 
 
 
-[^1]: [Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). doi: 10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
-[^2]: [Barker, M., Chue Hong, N.P., Katz, D.S. et al. Introducing the FAIR Principles for research software. Sci Data 9, 622 (2022). doi: 10.1038/s41597-022-01710-x](https://doi.org/10.1038/s41597-022-01710-x)
+[^1]: [Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for Scientific Data Management and Stewardship. Sci Data 3, 160018 (2016). doi: 10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
+[^2]: [Barker, M., Chue Hong, N.P., Katz, D.S. et al. Introducing the FAIR Principles for Research Software. Sci Data 9, 622 (2022). doi: 10.1038/s41597-022-01710-x](https://doi.org/10.1038/s41597-022-01710-x)
 [^3]: [Chue Hong, N. P., Katz, D. S., Barker, M., et al. (2022). FAIR Principles for Research Software (FAIR4RS Principles) (1.0). Zenodo. doi: 10.15497/RDA00068](https://doi.org/10.15497/RDA00068)
 
 
