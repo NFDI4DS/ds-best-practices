@@ -15,7 +15,7 @@ cover: ../assets/gitbook/images/before.svg
 </center>
 <br>
 
-In this section, you will find recommendations for planning and starting <span style="background-color: #33FFC4">FAIR</span> [^1] [^2] [^3] research in Data Science (DS) and Artificial Intelligence (AI). Here and in the next phases, we will focus on how to ensure FAIRness of DS and AI research artifacts such as <span style="background-color: #FBFF87">(meta)data</span>, <span style="background-color: #84D8FC">models/code/software</span> , and <span style="background-color: #FAA5E7">(research) knowledge graphs</span> (KGs/SKGs). 
+In this section, you will find recommendations for planning and starting FAIR [^1] [^2] [^3] research in Data Science (DS) and Artificial Intelligence (AI). Here and in the next phases, we will focus on how to ensure FAIRness of DS and AI research artifacts such as *(meta)data*, *models/code/software*, and *(research) knowledge graphs* (KGs/SKGs). 
 
 Before diving into the best practices, first try to answer the questions presented in the figure below. Those are aimed to serve as a reference when you plan the project and as a checklist before you start the actual research. 
 
@@ -37,17 +37,17 @@ Before diving into the best practices, first try to answer the questions present
 ### (Meta)data
 --------------------------------------------------------------------------------------------
 
-1. Decide whether <span style="background-color: #FBFF87">pre-existing data</span> can be used and/or <span style="background-color: #FBFF87">raw data</span> should be collected.
-2. Define the <span style="background-color: #FBFF87">goal</span> for data collection/reuse.
-3. Before starting to collect/reuse data, assess whether it is a subject to <span style="background-color: #FBFF87">privacy/legal/ethical/copyright restrictions</span> (see [Submission](http://127.0.0.1:4000/jekyll-gitbook/jekyll/2019-04-29-submitting.html)). 
+1. Decide whether pre-existing data can be used and/or raw data should be collected.
+2. Define the goal for data collection/reuse.
+3. Before starting to collect/reuse data, assess whether it is a subject to privacy/legal/ethical/copyright restrictions (see [Submission](http://127.0.0.1:4000/jekyll-gitbook/jekyll/2019-04-29-submitting.html)). 
 4. In case of data collection:
-* Plan an <span style="background-color: #FBFF87">approach</span> and <span style="background-color: #FBFF87">methods</span> (i.e, how data will be collected, the duration of the data collection, etc.).
-* Decide on <span style="background-color: #FBFF87">metadata</span>, <span style="background-color: #FBFF87">ontologies</span> and the way data <span style="background-color: #FBFF87">documentation</span> will be provided.
-5. Decide on the data <span style="background-color: #FBFF87">storage</span>, <span style="background-color: #FBFF87">security</span>, <span style="background-color: #FBFF87">sharing</span> (e.g., with collaborators) and <span style="background-color: #FBFF87">preservation</span> strategy during and after the project.
-6. Assess <span style="background-color: #FBFF87">resources required</span>, e.g., computational costs for collecting, storing and pre-processing data, expenses on annotators. 
+* Plan an approach and methods (i.e, how data will be collected, the duration of the data collection, etc.).
+* Decide on metadata, ontologies and the way data documentation will be provided.
+5. Decide on the data storage, security, sharing (e.g., with collaborators) and preservation strategy during and after the project.
+6. Assess resources required, e.g., computational costs for collecting, storing and pre-processing data, expenses on annotators. 
 
 >Consider the following data search and collection services:
-* RKGs such as [ORKG](https://dl.acm.org/doi/10.1145/3360901.3364435) or [OpenAIRE Graph](https://graph.openaire.eu)
+* SKGs such as [ORKG](https://dl.acm.org/doi/10.1145/3360901.3364435) or [OpenAIRE Graph](https://graph.openaire.eu)
 * [Papers With Code](https://paperswithcode.com)  
 * [Google Dataset Search](https://datasetsearch.research.google.com)
 * [Kaggle](https://www.kaggle.com/datasets)
@@ -60,7 +60,7 @@ Before diving into the best practices, first try to answer the questions present
 ### Code, Models, and Software
 --------------------------------------------------------------------------------------------
 
-1. Decide whether <span style="background-color: #84D8FC">existing</span> or/and <span style="background-color: #84D8FC">new code/software/models</span> should be used. Before using an existing resource, check its implementation conditions (e.g., have a look at its licence type). 
+1. Decide whether existing or/and new code/software/models should be used. Before using an existing resource, check its implementation conditions (e.g., have a look at its licence type). 
 
 >Consider the following code/models/software search services:
 * [Hugging Face Models](https://huggingface.co/models)
@@ -68,17 +68,17 @@ Before diving into the best practices, first try to answer the questions present
 * [Software Heritage](https://www.softwareheritage.org)
 * [ELG](https://live.european-language-grid.eu)
 
-3. Assess <span style="background-color: #84D8FC">resources required</span>, e.g., computational costs for running and storing code/models/software.
-4. Decide on the <span style="background-color: #84D8FC">storage</span>, <span style="background-color: #84D8FC">security</span>, <span style="background-color: #84D8FC">sharing</span> (e.g., with collaborators) and <span style="background-color: #84D8FC">preservation</span> strategy during and after the project.
+3. Assess resources required, e.g., computational costs for running and storing code/models/software.
+4. Decide on the storage, security, sharing (e.g., with collaborators) and preservation strategy during and after the project.
 
 ### Publication Venue
 --------------------------------------------------------------------------------------------
 
-1. Find and <span style="background-color: #33FFC4">select</span> the suitable publication <span style="background-color: #33FFC4">venue in advance</span>. 
-2. Make sure that your <span style="background-color: #33FFC4">paper fits the scope</span> of the venue and that its content is relevant to the venue’s topics.
-3. Assess the <span style="background-color: #33FFC4">credibility</span> of a journal or publisher:
-* Check the <span style="background-color: #33FFC4">impact factor</span> of an academic journal, i.e., the yearly average of citations of articles published in the last N years in a given journal. You can search for the journal's impact factor by specifying its full name or International Standard Serial Number (ISSN). Note that this measure should be used to compare journals from the same field. For instance, the Artificial Intelligence journal (AIJ) (impact factor of 14.05 for 2021) vs the Journal of Artificial Intelligence Research (JAIR) (impact factor of 2.441 for 2019). Both are scientific journals on Artificial Intelligence research.
-* Check whether articles go through a <span style="background-color: #33FFC4">peer-review process</span> and if it is fully disclosed. 
+1. Find and select the suitable publication venue in advance. 
+2. Make sure that your paper fits the scope of the venue and that its content is relevant to the venue’s topics.
+3. Assess the credibility of a journal or publisher:
+* Check the impact factor of an academic journal, i.e., the yearly average of citations of articles published in the last N years in a given journal. You can search for the journal's impact factor by specifying its full name or International Standard Serial Number (ISSN). Note that this measure should be used to compare journals from the same field. For instance, the Artificial Intelligence journal (AIJ) (impact factor of 14.05 for 2021) vs the Journal of Artificial Intelligence Research (JAIR) (impact factor of 2.441 for 2019). Both are scientific journals on Artificial Intelligence research.
+* Check whether articles go through a peer-review process and if it is fully disclosed. 
 >Check what peer-review type the venue adheres to: 
 >* Single-blinded, author(s) do not know the identity of reviewers; 
 >* Double-blinded, both identities of authors and reviewers are anonymised; 
@@ -86,12 +86,12 @@ Before diving into the best practices, first try to answer the questions present
 >* Transparent, reviewers’ report, authors’ response and editors’ decision letters are published along with an accepted paper; 
 >* Collaborative, either reviewers work together to review a manuscript or they collaborate with authors to improve a paper;
 >* Post-publication, the review is done after a paper has been published.
-* Check whether the <span style="background-color: #33FFC4">submission guidelines</span> are clearly stated on the journal/conference webpage.
-* Check whether information on <span style="background-color: #33FFC4">ethical considerations</span> such as plagiarism, conflicts of interest, informed consent, and confidentiality is provided.
-* Check members of the <span style="background-color: #33FFC4">editorial board</span>. The committee should consist of well-known experts in the field, affiliated with recognised institutions and hold appropriate academic credentials.
-* Check if there are <span style="background-color: #33FFC4">fees</span> for publication, this information should be clearly stated.
-4. Make sure to pick a publication venue that provides <span style="background-color: #33FFC4">full Open Access</span> to the eventual paper:
-* Check the <span style="background-color: #33FFC4">author and copyright policies</span> of the journal/proceedings of the conference. Ideally, the venue permits authors to retain their copyright, meaning that authors are allowed to reuse, distribute, and republish their work. 
+* Check whether the submission guidelines are clearly stated on the journal/conference webpage.
+* Check whether information on ethical considerations such as plagiarism, conflicts of interest, informed consent, and confidentiality is provided.
+* Check members of the editorial board. The committee should consist of well-known experts in the field, affiliated with recognised institutions and hold appropriate academic credentials.
+* Check if there are fees for publication, this information should be clearly stated.
+4. Make sure to pick a publication venue that provides full Open Access to the eventual paper:
+* Check the author and copyright policies of the journal/proceedings of the conference. Ideally, the venue permits authors to retain their copyright, meaning that authors are allowed to reuse, distribute, and republish their work. 
 
 >### Summary
 ><span style="font-size: 1.1em;"><strong>(Meta)data:</strong><span>
