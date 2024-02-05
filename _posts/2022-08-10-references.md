@@ -25,4 +25,5 @@ layout: post
 18. M.Y. Jaradeh, A. Oelen, K.E. Farfar, et al. Open Research Knowledge Graph: Next Generation Infrastructure for Semantic Scholarly Knowledge. In Proceedings of the 10th International Conference on Knowledge Capture (K-CAP '19). Association for Computing Machinery, New York, NY, USA, pp.243–246. 2019. DOI: [10.1145/3360901.3364435](https://doi.org/10.1145/3360901.3364435).
 19. C. Bless, I. Baimuratov, O. Karras. SciKGTeX – A LATEXPackage to Semantically Annotate Contributions in Scientific Publication. arXiv: 2304.05327 [cs.DL]. 2023. DOI: [10.48550/arXiv.2304.05327](https://doi.org/10.48550/arXiv.2304.05327).
 20. D. Garijo and M. Poveda-Villalón. Best Practices for Implementing FAIR Vocabularies and Ontologies on the Web. arXiv: 2003.13084 [cs.DL]. 2023. DOI: [10.48550/arXiv.2003.13084](https://doi.org/10.48550/arXiv.2003.13084).
+21. N. Ide and J. Pustejovsky. 2017. Handbook of Linguistic Annotation. Heidelberg: Springer.
 
