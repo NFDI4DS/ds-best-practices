@@ -16,7 +16,7 @@ cover: ../assets/gitbook/images/during.svg
 
 In this section, you will find recommendations on how to ensure FAIRness of DS and AI research artifacts during your project. Similar to the [Before Research](https://nfdi4ds.github.io/ds-best-practices/jekyll/2019-04-27-before_research.html) stage, try to first answer the questions presented in the figure below.
 
->Note: Again, these questions apply to KGs/SKGs as well.
+>Note: Again, these questions apply to KGs/RKGs as well.
 
 <br>
 <img src="../assets/gitbook/images/during_fig.jpeg"
@@ -28,14 +28,14 @@ In this section, you will find recommendations on how to ensure FAIRness of DS a
 --------------------------------------------------------------------------------------------
 
 1. Don’t forget about Data Version Control (DVC) and backups to keep track of changes and to avoid data loss.
-2. If the dataset is planned to be shared with the community, preserve a version of the raw data. This way other researchers will be able to prepreprocess and use it according to their study goals.
+2. If the dataset is planned to be shared with the community, preserve a version of the raw data. This way other researchers will be able to pre-preprocess and use it according to their study goals.
 3. In case of data with sensitive/confidential/personal information:
 * Strong security measures must be taken to prevent data breaches and leakages. Some of the best practices for data protection are listed by [RDMkit](https://rdmkit.elixir-europe.org/data_protection). 
 * Appropriate measures must be taken to protect the rights of data subjects (e.g., anonymisation, pseudonymisation, encryption, aggregation).
 4. If data annotation is planned:
-* Decide on an annotation level, approach (manual/semi-automatic/automatic) and tool.
+* Decide on an annotation level, approach (manual/semi-automatic/automatic), and tool.
 * Define the required input/output formats and their structure.
-* Prepare tag sets/schemas and guidelines.
+* Prepare tag sets/schemas and the guidelines.
 * Identify annotation efforts required (How many annotators? Experts vs crowdworkes?).
 * Decide on Inter Annotator Agreement (IAA) measures.
 
@@ -48,7 +48,7 @@ In this section, you will find recommendations on how to ensure FAIRness of DS a
 4. Constantly check energy consumption. For instance, you can use the [CodeCarbon](https://codecarbon.io) package which estimates the amount of carbon dioxide produced by computing resources and provides some tips on how to decrease emissions.
 
 
-[^1]: [Martin R. C. Clean Code: A Handbook of Agile Software Craftsmanship. Prentice Hall, Boston. 2008.](https://www.amazon.de/-/en/Robert-Martin/dp/0132350882)
+[^1]: R.C. Martin. Clean Code: A Handbook of Agile Software Craftsmanship. Prentice Hall, Boston, 2008.
 
 >### tl;dr
 ><span style="font-size: 1.1em;"><strong>(Meta)data:</strong><span>
@@ -60,6 +60,4 @@ In this section, you will find recommendations on how to ensure FAIRness of DS a
 >Write clean code and don’t forget about unit tests! Save your evaluation results and hyperparameters. Don’t forget about version control. Finally, check the energy consumption cost of running your code/models/software. 
 {: .block-tip }
 
-
-### References
 --------------------------------------------------------------------------------------------
