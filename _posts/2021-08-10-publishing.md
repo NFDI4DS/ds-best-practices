@@ -19,7 +19,7 @@ In this section, you will find a few recommendations for submitting the final ve
 <br>
 <img src="../assets/gitbook/images/publishing_fig.png"
      alt=""
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 <br>
 
 ### Camera Ready
