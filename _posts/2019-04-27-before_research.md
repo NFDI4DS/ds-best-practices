@@ -81,8 +81,8 @@ Before diving into the best practices, first try to answer the questions present
 * Check whether articles go through a peer-review process and if it is fully disclosed. 
 >
 >Check what peer-review type the venue adheres to: 
->* Single-blinded, author(s) do not know the identity of reviewers. 
->* Double-blinded, both identities of authors and reviewers are anonymised. 
+>* Single-blind, author(s) do not know the identity of reviewers. 
+>* Double-blind, both identities of authors and reviewers are anonymised. 
 >* Open, identities of authors and reviewers are known by all participants (during or after the review process). 
 >* Transparent, reviewers’ reports, authors’ responses and editors’ decision letters are published along with an accepted paper. 
 >* Collaborative, either reviewers work together to review a manuscript or they collaborate with authors to improve a paper.
