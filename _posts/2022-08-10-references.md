@@ -3,7 +3,6 @@ title: References
 category: Jekyll
 layout: post
 ---
-### References
 
 1. M. Wilkinson, M. Dumontier, I. Aalbersberg, et al. The FAIR Guiding Principles for Scientific Data Management and Stewardship. Scientific Data, vol. 3, no. 160018, Mar. 2016. DOI: [10.1038/sdata.2016.18.4](https://doi.org/10.1038/sdata.2016.18). 
 2. A.L. Lamprecht, L. Garcia, M. Kuzak, et al. Towards FAIR Principles for Research Software. Data Science, vol. 3, no. 1, pp. 37–59, Jun. 2020.
