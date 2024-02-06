@@ -129,26 +129,26 @@ State the reason for creating or re-using a dataset, e.g., for a specific task o
 State the reason for creating or reusing code/models/software.
 
 #### Distribution 
-1. Make your code, models or software publicly available. Publish them in an appropriate, recognised and trusted repository. We encourage the use of open source and open access repositories which guarantee the persistent identification, long-term availability and authenticity protection of digital artefacts (e.g., [Software Heritage](https://www.softwareheritage.org)). 
-2. Publish code/models/software with rich (meta)data using an appropriate (meta)data format (e.g., [CodeMeta.json](https://github.com/codemeta/codemeta), [Citation File Format](https://citation-file-format.github.io)).
+1. Make your code, models or software publicly available. Publish them in an appropriate, recognised and trusted repository. We encourage the use of open source and open access repositories which guarantee the persistent identification, long-term availability, and authenticity protection of digital artefacts (e.g., [Software Heritage](https://www.softwareheritage.org)). 
+2. Publish code/models/software with rich (meta)data using an appropriate (meta)data format (e.g., [CodeMeta.json](https://github.com/codemeta/codemeta) and [Citation File Format](https://citation-file-format.github.io)).
 3. Include a link to your repository directly in your paper.
 4. Include a fine-grained documentation:
 * Provide information on code/models/software names and their versions, parameters, hyper-parameters, methods used to select the best hyper-parameter configuration and if applicable, the exact number of training and evaluation runs.
-* If applicable, provide also information on the data used for model training and evaluation along with description on the datasets selection procedure.  
-* If you used existing packages (e.g., for normalization, evaluation): i) Report the names/versions of models/packages, implementation, parameter settings and accessibility (free/commercial/limited access); ii) Cite the original work for those packages (consult [Software Citation Checklist for Authors](https://elib.dlr.de/133078/1/software_citation_checklist_for_authors.pdf)). If no paper exists, include a URL/DOI to the website or repository.
-* Provide usage examples (in README, Jupyter notebooks or [Docker](https://www.docker.com) containers), e.g., how to run scripts/tests.
+* If applicable, provide also information on the data used for model training and evaluation along with a description of the dataset selection procedure.  
+* If you used existing packages (e.g., for normalisation, evaluation, etc.): i) Report the names/versions of models/packages, implementation, parameter settings, and accessibility (free/commercial/limited access); ii) Cite the original work for those packages (consult [Software Citation Checklist for Authors](https://elib.dlr.de/133078/1/software_citation_checklist_for_authors.pdf)). If no paper exists, include a URL/DOI to the website or repository.
+* Provide usage examples (in a README file, Jupyter notebooks, or [Docker](https://www.docker.com) containers). These should contain information on, e.g., how to run scripts/tests.
 * Include a sample input and output for your system.
 * Report the feature encoding method.
-* Report the feature selection method: Manual (conducted by domain experts) or data-driven selection (clustering, semi-supervised learning, etc.).
-* If applicable, include a table of results (e.g., model performance, comparison with similar models), describing the measure(s) or statistics used.
+* Report the feature selection method: manual (conducted by domain experts) or data-driven selection (clustering, semi-supervised learning, etc.).
+* If applicable, include a table of results (e.g., model performance and comparison with similar models), describing the measure(s) or statistics used.
 * State the specification of dependencies.
 * Describe an average runtime for each result or estimated energy cost (e.g., GPU hours, the amount of parallelism across GPUs, the size of the GPUs).
 * Provide a description of the computing infrastructure used (hardware and software).
 * Report whether there are any issues in the code (bugs).
 * Provide contact details and recommended citation, e.g., in a README file or in a separate CITATION file (following the standard citation style for your community).
 5. Publish your code under a licence approved by the open source initiative:
-* Free software licences are usually divided into two broad categories: Copyleft (e.g., GPL, AGPL) and permissive (e.g., BSD, MIT, Apache). The main difference between the two is that copyleft licence forbids proprietisation, thus not allowing commercial use of any modified versions of the source code/software. We recommend using one of the permissive licences to attract more contributors (including companies), maximize use cases of your code/models/software and to promote modifications and developments of your original work.
-6. Make sure the code can be run out of the box (time and machine independent). Make use of [Docker](https://www.docker.com) containers and eventually consider publishing the docker container through a community platform such as [ELG](https://huggingface.co/spaces/katebor/Data_Science_and_AI_Open_Science_Best_Practices).
+* Free software licences are usually divided into two broad categories: Copyleft (e.g., GPL, AGPL) and permissive (e.g., BSD, MIT, Apache). The main difference between the two is that a copyleft licence forbids proprietisation, thus not allowing commercial use of any modified versions of the source code/software. We recommend using one of the permissive licences to attract more contributors (including companies), maximise use cases of your code/models/software, and promote modifications and developments of your original work.
+6. Make sure the code can be run out of the box (time- and machine-independent). Make use of [Docker](https://www.docker.com) containers and eventually consider publishing the docker container through a community platform such as [ELG](https://huggingface.co/spaces/katebor/Data_Science_and_AI_Open_Science_Best_Practices).
 7. State whether external contributions are allowed. Explain clearly how to contribute (e.g., through pull requests on GitHub). Make sure that all updates go through a review process before being added to the package.
 
 #### Maintenance 
@@ -159,7 +159,7 @@ State the reason for creating or reusing code/models/software.
 #### Biases
 In case you report biases make sure to:
 1. Explicitly state the definition of bias you are following.
-2. State a single, clear and not vague motivation including normative reasoning. Explain clearly why a model behavior that is described as bias is harmful, in what ways, and to whom.
+2. State a single and clear motivation including normative reasoning. Explain clearly why a model behaviour that is described as biased is harmful, in what ways, and to whom.
 3. Describe the quantitative techniques for measuring or mitigating bias. Make sure that those techniques are well grounded in the relevant literature on bias outside of NLP. 
 4. Describe potential sources of biases. Make sure to focus on a broad range of those but not just on model predictions (e.g., task definitions, annotation guidelines, and evaluation metrics).
 
