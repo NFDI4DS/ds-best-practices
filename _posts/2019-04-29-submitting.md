@@ -23,16 +23,16 @@ In this section, you will find recommendations on what should be done when you a
 ### Venue Requirements
 --------------------------------------------------------------------------------------------
 
-Make sure that all journal/conference submission requirements are met, e.g.,:
+Make sure that all journal/conference submission requirements are met, e.g.:
 1. In case of a double-blinded review, ensure that your paper does not contain information which reveals your identity (directly or indirectly):
-* Remove any identifying information such as title, authors' names, affiliations and emails, acknowledgements, conflict of interest statement, and project funding details, from your paper.
+* Remove any identifying information from your paper. These can include titles, author names, affiliations and emails, acknowledgements, conflict of interest statements, and project funding details.
 * Do not include links pointing to your personal repository with code/(meta)data in a paper.
 * Use the third person to refer to your previous work.
 * Make sure that figures and tables do not include any references to authors’ affiliations.
 * Ensure that file names and properties are also anonymised.
-* Better not to share non-anonymous pre-print of a manuscript (e.g., in [arXiv](https://arxiv.org)) before the anonymity period expires.
+* It is better not to share the non-anonymous pre-print of a manuscript (e.g., in [arXiv](https://arxiv.org)) before the anonymity period expires.
 2. If applicable, do not forget to include an ethical statement.
-3. In case you are using LaTeX, make sure to label your contributions (e. g., research problem, objective, method, etc.) in the LaTeX file using the [SciKGTeX](https://ctan.org/pkg/scikgtex?lang=en) package. This will allow an automatic extraction and import of mentioned (meta)data to any KG/RKG.
+3. In case you are using LaTeX, make sure to label your contributions (e.g., research problem, objective, method, etc.) in the LaTeX file using the [SciKGTeX](https://ctan.org/pkg/scikgtex?lang=en) package. This will allow an automatic extraction and import of the mentioned (meta)data to any KG/RKG.
 
 ### (Meta)data
 --------------------------------------------------------------------------------------------
