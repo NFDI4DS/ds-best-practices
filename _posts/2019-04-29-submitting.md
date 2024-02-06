@@ -211,3 +211,20 @@ State the reason for creating or reusing a KG/RKG, e.g., for a specific task or 
 2. State whether a KG/RKG will be updated. If yes, describe how often and by whom updates will be maintained as well as how they will be documented and communicated (e.g., via mailing list, GitHub, etc.). Do not forget about VC.
 3. If applicable, describe how others could extend, augment or build on your KG/RKG (e.g., through pull requests on GitHub). State the process for tracking and assessing the quality of such contributions.
 
+>### tl;dr
+><span style="font-size: 1.1em;"><strong>Venue requirements:</strong><span>
+>
+>Go over all the requirements for your venue, which are usually available on their webpage. Among those, if the venue requires anonymisation, make sure your submission does not include or link to any of your personal information. Don’t forget about including an ethical statement if needed and labeling contributions in your LaTeX source files using the SciKGTex package!
+>
+><span style="font-size: 1.1em;"><strong>(Meta)data:</strong><span>
+>
+>When you are writing about your (meta)data, make sure to address the following: why you created/reused data, how your data is composed and formatted, how your data is collected and pre-processed, how you are distributing and maintaining your data, and how you validate your data. If applicable, remember to mention any legal or ethical considerations of your data. Finally, it’s always good to evaluate and report the FAIRness of your (meta)data with available tools.
+>
+><span style="font-size: 1.1em;"><strong>Code, models, and software:</strong></span>
+>
+>When writing about your code/model architecture/software, remember to include the following: why you created/reused code/models/software, how you are distributing your code/models/software, and provide a link to both your code/models/software and the respective metadata. Don’t forget to document your code and publish it under an appropriate license; state clearly whether external contributions are allowed. Avoid code rot by maintaining your code. Finally, report biases in a clear manner.
+>
+><span style="font-size: 1.1em;"><strong>(Research) knowledge graphs:</strong></span>
+>
+>State clearly why you are reusing or creating a KG/RKG. Follow previous recommendations regarding (meta)data and code/models/software. Write clearly how you are distributing your KG/RKG and what resources it is linked to. Finally, don’t forget to mention how you are planning to maintain your KG/RKG.
+>{: .block-tip }
