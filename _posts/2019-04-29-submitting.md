@@ -38,36 +38,36 @@ Make sure that all journal/conference submission requirements are met, e.g.:
 --------------------------------------------------------------------------------------------
 
 #### Motivation
-State the reason for creating or re-using a dataset, e.g., for specific task(s), a gap in the research field that needed to be filled.
+State the reason for creating or re-using a dataset, e.g., for a specific task or a gap in the research field that needed to be filled.
 
 #### Data composition and format
-1. Describe data type (raw vs pre-processed).
-2. State instances type/format (e.g., text documents, images, videos, audio files; pdfs, csvs, html, etc.).
+1. Describe your data type (raw vs pre-processed).
+2. State the type/format of instances in your data (e.g., text documents, images, videos, audio files; PDF, CSV, HTML, etc.).
 3. Make sure to report the language of any linguistic data, even if you are reusing common datasets or benchmarks (#benderrule).
 4. Provide information about the total number of observations and (if applicable) label distribution.
 5. Describe data with rich (meta)data:
-* (Meta)data should clearly and explicitly include the persistent identifier (PID). For more detail on PIDs look at [FAIRCOOKBOOK](https://faircookbook.elixir-europe.org/content/recipes/findability/identifiers.html).
-* (Meta)data should be provided in a formal, accessible, shared, and broadly applicable language for knowledge representation (you can use RDF, OWL, DAML+OIL or JSON LD). There are many tools for converting non-RDF data to RDF, e.g., [ConverterToRdf](https://www.w3.org/wiki/ConverterToRdf) or [RdfAndSql](https://www.w3.org/wiki/RdfAndSql).
-* (Meta)data should include qualified references to other (meta)data. You should establish meaningful links between datasets by clearly stating: i) whether one dataset builds on another dataset; ii) whether additional datasets are needed to complete a given data; iii) whether any complementary information is stored in a different dataset.
-* If applicable, provide details on train/validation/test splits.
+* (Meta)data should clearly and explicitly include the persistent identifier (PID). For more details on PIDs, take a look at the [FAIRCOOKBOOK](https://faircookbook.elixir-europe.org/content/recipes/findability/identifiers.html).
+* (Meta)data should be provided in a formal, accessible, shared, and broadly applicable language for knowledge representation (you can use RDF, OWL, DAML+OIL or JSON LD). There are many tools for converting non-RDF data to RDF, e.g., [ConverterToRdf](https://www.w3.org/wiki/ConverterToRdf) and [RdfAndSql](https://www.w3.org/wiki/RdfAndSql).
+* (Meta)data should include qualified references to other (meta)data. You should establish meaningful links between datasets by clearly stating i) whether one dataset builds on another dataset, ii) whether additional datasets are needed to complete a given dataset, and iii) whether any complementary information is stored in a different dataset.
+* If applicable, provide details on train/validation/test splits of your dataset.
 
 #### Data collection 
-1. Describe the data collection method (manual human annotation/automatic/semi-automatic, API). In case of human annotation:
-* Report on the annotator recruitment process. In the case of data annotation through crowdsourcing, explicitly specify the name of the platform utilised in the process.
-* Provide information about annotators (e.g., crowdworkers, students, linguists; number of annotators, their age, demographic details, population).
-* Discuss how annotators were paid and if such payment is adequate given the annotator demographic (e.g., country of residence).
+1. Describe the data collection method (e.g., manual human annotation/automatic/semi-automatic/API). In the case of human annotation:
+* Describe the annotator recruitment process. In the case of data annotation through crowdsourcing, explicitly specify the name of the platform utilised in the process.
+* Provide information about annotators (e.g., crowdworkers, students, linguists; the number of annotators, their age, demographic details, etc.).
+* Discuss how annotators were paid and if such payment is adequate given the annotator demographic (e.g., country of residence and level of experience).
 * Report the full text of instructions/annotation guidelines given to participants.
 * Describe the means and frequency of communication with annotators.
-* Provide schemas used for annotation.
+* Provide the tagsets/schemas used for annotation.
 * Describe/reference annotation tool(s) used (with version details).
 * Provide the IAA measure and score.
-* State whether and how consent was obtained from people whose data was used/curated. For instance, if data was collected via crowdsourcing, did you explain to the crowdworkers how the data will be used?
+* State whether and how consent was obtained from people whose data was used/curated. For instance, if data was collected via crowdsourcing, did you explain to the crowdworkers how the data would be used?
 2. Specify the timeframes for both the data collection process and the contents of the dataset.
 3. State the data source(s) (e.g., Twitter, Facebook, Reddit). If data was collected by third parties, do not forget to cite authors/creators.
-4. Indicate  whether your dataset comprises all instances or if it is a representative sample. If it is the latter, elaborate on the employed sampling strategy (e.g., deterministic, probabilistic).
+4. Indicate  whether your dataset comprises all instances or if it is a representative sample. If it is the latter, elaborate on the employed sampling strategy (e.g., deterministic, probabilistic, etc.).
 5. State whether there is any missing information in the dataset and provide reasons for its absence. This does not include intentionally dropped instances. It might include redacted text or withheld documents.
-6. Ensure that all files are clearly labeled so readers understand their contents and difference among them.
-7. Report whether there are any known errors, sources of noise or redundancies in your dataset.
+6. Ensure that all files are clearly labelled so readers understand their contents and the differences between them.
+7. Report whether there are any known errors, sources of noise, or redundancies in your dataset.
 
 #### Data pre-processing 
 1. Describe the pre-processing steps (e.g., tokenisation, part-of-speech tagging, stopwords removal, resolving imbalanced data classes).
