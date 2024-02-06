@@ -228,4 +228,4 @@ State the reason for creating or reusing a KG/RKG, e.g., for a specific task or 
 ><span style="font-size: 1.1em;"><strong>(Research) knowledge graphs:</strong></span>
 >
 >State clearly why you are reusing or creating a KG/RKG. Follow previous recommendations regarding (meta)data and code/models/software. Write clearly how you are distributing your KG/RKG and what resources it is linked to. Finally, don’t forget to mention how you are planning to maintain your KG/RKG.
->{: .block-tip }
+{: .block-tip }
