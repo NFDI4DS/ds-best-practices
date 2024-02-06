@@ -4,8 +4,6 @@ category: Jekyll
 layout: post
 ---
 
-### About
---------------------------------------------------------------------------------------------
 In the past years, scientific research in Data Science (DS) and Artificial Intelligence (AI) has witnessed vast progress. The number of published papers and digital objects (e.g., data, code, models) is growing exponentially[^1] [^2]. However, not all research artefacts fulfill the criteria of being *findable*, *accessible*, *interoperable* and *reusable* (FAIR)[^3], contributing to a rather low level of reproducibility of experimental findings reported in scholarly publications and to the reproducibility crisis.
 
 [^1]: S. Fortunato, C.T. Bergstrom, K. Börner, et al. Science of Science. Science, Mar 2;359(6379):eaao0185. 2018. DOI: [10.1126/science.aao0185](https://doi.org/10.1126/science.aao0185).
