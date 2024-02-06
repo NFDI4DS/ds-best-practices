@@ -24,7 +24,7 @@ Before diving into the best practices, first try to answer the questions present
 <br>
 <img src="../assets/gitbook/images/before_fig.png"
      alt=""
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 <br>
 
 
