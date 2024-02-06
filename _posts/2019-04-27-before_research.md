@@ -38,17 +38,12 @@ Before diving into the best practices, first try to answer the questions present
 --------------------------------------------------------------------------------------------
 
 1. Decide whether pre-existing data can be used and/or raw data should be collected.
-
 2. Define the goal of data collection/reuse.
-
 3. Before starting to collect/reuse data, assess whether it is subject to privacy/legal/ethical/copyright restrictions (see [Submitting Your Research](https://nfdi4ds.github.io/ds-best-practices/jekyll/2019-04-29-submitting.html#code-models-and-software)). 
-
 4. In case of data collection:
 * Plan your approach and methods (e.g., how the data will be collected and the duration of the data collection).
 * Decide on (meta-)data, ontologies, and the way data documentation will be provided.
-
 5. Decide on data storage, security, sharing (e.g., with collaborators), and preservation strategies during and after the project.
-
 6. Assess resources required, e.g., computational costs for collecting, storing and pre-processing data, and expenses on annotators. 
 
 >Consider the following data search and collection services:
@@ -66,7 +61,6 @@ Before diving into the best practices, first try to answer the questions present
 --------------------------------------------------------------------------------------------
 
 1. Decide whether existing or/and new code/models/software should be used. Before using an existing resource, check its implementation conditions (e.g., have a look at its licence type).
- 
 >
 >Consider the following code/models/software search services:
 >* [Hugging Face Models](https://huggingface.co/models)
@@ -74,22 +68,16 @@ Before diving into the best practices, first try to answer the questions present
 >* [Software Heritage](https://www.softwareheritage.org)
 >* [ELG](https://live.european-language-grid.eu)
 >
-
 2. Assess resources required, e.g., computational costs for running and storing code/models/software.
-
 3. Decide on storage, security, sharing (e.g., with collaborators) and preservation strategies during and after the project.
 
 ### Publication Venue
 --------------------------------------------------------------------------------------------
 
 1. Find and select a suitable publication venue in advance. 
-
 2. Make sure that your paper fits the scope of the venue and that its content is relevant to the venue’s topics.
-
 3. Assess the credibility of a journal or publisher:
-
 * Check the impact factor of an academic journal, i.e., the yearly average of citations of articles published in the last N years in a given journal. You can search for the journal's impact factor by specifying its full name or International Standard Serial Number (ISSN). Note that this measure should be used to compare journals from the same field. For instance, the Artificial Intelligence Journal (AIJ) (impact factor of 14.05 for 2021) vs the Journal of Artificial Intelligence Research (JAIR) (impact factor of 2.441 for 2019). Both are scientific journals on AI research.
-
 * Check whether articles go through a peer-review process and if it is fully disclosed. 
 >
 >Check what peer-review type the venue adheres to: 
@@ -104,7 +92,6 @@ Before diving into the best practices, first try to answer the questions present
 * Check whether information on ethical considerations such as plagiarism, conflicts of interest, informed consent, and confidentiality is provided.
 * Check members of the editorial board. The committee should consist of well-known experts in the field, affiliated with recognised institutions and hold appropriate academic credentials.
 * Check if there are fees for publication, this information should be clearly stated.
-
 4. Make sure to pick a publication venue that provides full Open Access to the eventual paper:
 * Check the author and copyright policies of the journal/proceedings of the conference. Ideally, the venue should permit authors to retain their copyright, meaning that authors are allowed to reuse, distribute, and republish their work. 
 
