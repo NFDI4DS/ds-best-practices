@@ -85,40 +85,40 @@ State the reason for creating or re-using a dataset, e.g., for a specific task o
 
 #### Data distribution
 1. Assign a PID to your (meta)data.
-2. Store (meta)data in an appropriate certified data repository and provide a link/DOI in your paper. You can assign a DOI to (meta)data by using platforms such as [DataCite](https://datacite.org) or [da|ra](https://www.da-ra.de).
-* Choose either a discipline-specific or a general-purpose repository (e.g., [figshare](https://figshare.com), [Harvard Dataverse](https://dataverse.harvard.edu), [Open Science Framework](https://osf.io), [Dryad Digital Repository](https://datadryad.org/stash), [Open Science Framework](https://osf.io), [Zenodo](https://zenodo.org), [ELG](https://live.european-language-grid.eu)). See also Services Lifecycle on  [NFDI4DS](https://www.nfdi4datascience.de/services/all/) webpage, [Nature's](https://www.nature.com/sdata/policies/repositories#general) list of recommended data repositories, [re3data](https://www.re3data.org), [NIH-supported domain-specific repositories](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html), and [Data repositories](https://oad.simmons.edu/oadwiki/Data_repositories).
+2. Store (meta)data in an appropriately certified data repository and provide a link/DOI in your paper. You can assign a DOI to (meta)data by using platforms such as [DataCite](https://datacite.org) or [da|ra](https://www.da-ra.de).
+* Choose either a discipline-specific or a general-purpose repository (e.g., [figshare](https://figshare.com), [Harvard Dataverse](https://dataverse.harvard.edu), [Open Science Framework](https://osf.io), [Dryad Digital Repository](https://datadryad.org/stash), [Open Science Framework](https://osf.io), [Zenodo](https://zenodo.org), [ELG](https://live.european-language-grid.eu)). See also *Services Lifecycle* on the [NFDI4DS](https://www.nfdi4datascience.de/services/all/) webpage, [Nature's](https://www.nature.com/sdata/policies/repositories#general) list of recommended data repositories, [re3data](https://www.re3data.org), [NIH-supported domain-specific repositories](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html), and [Data repositories](https://oad.simmons.edu/oadwiki/Data_repositories).
 * Choose a repository based on its data access type (full/restricted/prohibited). Follow the principle *"As open as possible, as closed as necessary"*.
-* Make sure that (meta)data is registered or indexed in a searchable resource.
+* Make sure that (meta)data is registered or indexed in a searchable resource. This makes your dataset accessible to other researchers in the future.
 * Make sure that (meta)data is retrievable by its identifier using a standardized communications protocol which is open, free, and universally implementable. The protocol should allow for an authentication and authorisation procedure where necessary (e.g., HTTPS).
-* If your (meta)data does not have an accompanying file and therefore cannot be assigned a DOI, use its URL as an identifier.
+* If your (meta)data does not have an accompanying file and, therefore, cannot be assigned a DOI, use its URL as an identifier.
 * Remember that (meta)data should be accessible, even when the data is no longer available.
 * Link (meta)data to your paper.
 3. State whether your dataset is already available. If not, explain when it will be released.
 4. State the type of access to your dataset and why it was chosen (full/restricted/prohibited). 
 >
->If constrained access: Conditions of access must be described precisely including contact details for access requests, timeframe for response to requests, restrictions imposed on data use via data use agreements, fees. 
+>If constrained: Conditions of access must be described precisely, including contact details for access requests, timeframe for response to requests, restrictions imposed on data use via data use agreements, and fees. 
 >
 >If prohibited: Publish (meta)data.
 >
-5. Publish data under a licence and provide the details on it. For instance, you can choose between Creative Commons (CC) and Open Data Common (ODC) licences. The difference between those is explained [here](https://wiki.creativecommons.org/wiki/Data#What_is_the_difference_between_the_Open_Data_Commons_licenses_and_the_CC_4.0_licenses.3F). There are also data licences developed for a specific use case or community (e.g., [Norwegian License for Open Government Data](https://data.norge.no/nlod/en/2.0)). 
+5. Publish data under a licence and provide its details. For instance, you can choose between Creative Commons (CC) and Open Data Common (ODC) licences. The difference between those is explained [here](https://wiki.creativecommons.org/wiki/Data#What_is_the_difference_between_the_Open_Data_Commons_licenses_and_the_CC_4.0_licenses.3F). There are also data licences developed for a specific use case or community (e.g., [Norwegian License for Open Government Data](https://data.norge.no/nlod/en/2.0)). 
 * In case you are using an existing dataset, state the original licence.
 * If you collected data from a particular source (e.g., website or social media API), you should, first of all, respect and also state the copyright and terms of service of that source.
-6. State whether a dataset falls under privacy/ethical/legal/copyright restrictions (see Legal/ethical considerations above).
+6. State whether a dataset falls under privacy/ethical/legal/copyright restrictions (see *Legal/ethical considerations* above).
 7. If possible, release both raw and cleaned datasets.
 8. Provide information about funding.
-9. Once you publish the paper, consider adding it to one of RKGs such as [ORKG](https://orkg.org) or [OpenAIRE Graph](https://graph.openaire.eu).
+9. Once you publish the paper, consider adding it to a RKG such as the [ORKG](https://orkg.org) or [OpenAIRE Graph](https://graph.openaire.eu).
 
 #### Data validation 
 1. Describe whether a dataset has been already applied for any tasks. If yes, list those tasks and report the results to allow others to compare.
-2. For quality assessment tools consult Services Lifecycle on  [NFDI4DS](https://www.nfdi4datascience.de/services/all/)
+2. For quality assessment tools consult *Services Lifecycle* on the [NFDI4DS](https://www.nfdi4datascience.de/services/all/).
 
 #### Data maintenance 
 1. Provide information on who is supporting/hosting/maintaining your dataset (e.g., email address, DOI).
-2. State whether your dataset will be updated. If yes, describe how often and by whom updates will be maintained as well how they will be documented and communicated (e.g., mailing list, GitHub). Do not forget about DVC.
+2. State whether your dataset will be updated. If yes, describe how often and by whom updates will be maintained as well as how they will be documented and communicated (e.g., via mailing list, GitHub, etc.). Do not forget about DVC.
 3. If applicable, describe how others could extend, augment or build on your dataset (e.g., through pull requests on GitHub). State the process for tracking and assessing the quality of such contributions.
 
 >Before submitting a paper, you can assess the FAIRness of your (meta)data with the following tools: 
->* [AIR Enough](https://fair-enough.semanticscience.org)
+>* [FAIR Enough](https://fair-enough.semanticscience.org)
 >* [FAIR Test Library](https://maastrichtu-ids.github.io/fair-test/)
 
 
