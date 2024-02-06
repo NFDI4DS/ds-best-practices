@@ -35,9 +35,9 @@ In this section, you will find recommendations on how to ensure FAIRness of DS a
 4. If data annotation is planned:
 * Decide on an annotation level, approach (manual/semi-automatic/automatic), and tool.
 * Define the required input/output formats and their structure.
-* Prepare tag sets/schemas and the guidelines.
+* Prepare tagsets/schemas and annotation guidelines. Those should be shared along with your research.
 * Identify annotation efforts required (How many annotators? Experts vs crowdworkes?).
-* Decide on Inter Annotator Agreement (IAA) measures.
+* Decide on which Inter Annotator Agreement (IAA) measure(s) to use in order to validate your annotation process.
 
 ### Code, Models, and Software
 --------------------------------------------------------------------------------------------
@@ -53,7 +53,7 @@ In this section, you will find recommendations on how to ensure FAIRness of DS a
 >### tl;dr
 ><span style="font-size: 1.1em;"><strong>(Meta)data:</strong><span>
 >
->Preserve various versions of your data (both raw and preprocessed) and back them up! If you are dealing with private/sensitive data, follow the respective security and protection measures. If you are planning to annotate data, follow common practices for your specific annotation case.
+>Preserve various versions of your data (both raw and preprocessed) and back them up! If you are dealing with private/sensitive data, follow appropriate security and protection measures. If you are planning to annotate data, follow common practices for your specific annotation case.
 >
 ><span style="font-size: 1.1em;"><strong>Code, models, and software:</strong></span>
 >
