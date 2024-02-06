@@ -38,13 +38,13 @@ Before diving into the best practices, first try to answer the questions present
 --------------------------------------------------------------------------------------------
 
 1. Decide whether pre-existing data can be used and/or raw data should be collected.
-2. Define the goal for the data collection/reuse.
-3. Before starting to collect/reuse data, assess whether it is a subject to privacy/legal/ethical/copyright restrictions (see [Submitting Your Research](http://127.0.0.1:4000/jekyll-gitbook/jekyll/2019-04-29-submitting.html)). 
+2. Define the goal of data collection/reuse.
+3. Before starting to collect/reuse data, assess whether it is subject to privacy/legal/ethical/copyright restrictions (see [Submitting Your Research](https://nfdi4ds.github.io/ds-best-practices/jekyll/2019-04-29-submitting.html#code-models-and-software)). 
 4. In case of data collection:
-* Plan an approach and methods (e.g., how data will be collected, the duration of the data collection).
-* Decide on (meta)data, ontologies, and the way data documentation will be provided.
+* Plan your approach and methods (e.g., how the data will be collected and the duration of the data collection).
+* Decide on (meta-)data, ontologies, and the way data documentation will be provided.
 5. Decide on data storage, security, sharing (e.g., with collaborators), and preservation strategies during and after the project.
-6. Assess resources required, e.g., computational costs for collecting, storing and pre-processing data, expenses on annotators. 
+6. Assess resources required, e.g., computational costs for collecting, storing and pre-processing data, and expenses on annotators. 
 
 >Consider the following data search and collection services:
 >* RKGs such as [ORKG](https://dl.acm.org/doi/10.1145/3360901.3364435) or [OpenAIRE Graph](https://graph.openaire.eu)
@@ -55,7 +55,7 @@ Before diving into the best practices, first try to answer the questions present
 >* [Awesome Public Datasets](https://github.com/awesomedata/.awesome-public-datasets#agriculture)
 >* [Data.world](https://data.world/search?context=community&entryTypeLabel=dataset&type=resources)
 >* [ELG](https://live.european-language-grid.eu)
->* Additional useful data collection services are available under Services Lifecycle on [NFDI4DS](https://www.nfdi4datascience.de/services/all/) webpage.
+>* Additional useful data collection services are available under *Services Lifecycle* on the [NFDI4DS](https://www.nfdi4datascience.de/services/all/) webpage.
 
 ### Code, Models, and Software
 --------------------------------------------------------------------------------------------
