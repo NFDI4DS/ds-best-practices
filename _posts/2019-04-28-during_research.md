@@ -21,7 +21,7 @@ In this section, you will find recommendations on how to ensure FAIRness of DS a
 <br>
 <img src="../assets/gitbook/images/during_fig.jpeg"
      alt=""
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 <br>
 
 ### (Meta)data
