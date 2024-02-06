@@ -17,7 +17,7 @@ In this section, you will find recommendations on what should be done when you a
 
 <img src="../assets/gitbook/images/submission_fig.png"
      alt=""
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 
 
 ### Venue Requirements
