@@ -12,7 +12,7 @@ Start your discovery of recommendations and practical tips to fuel your research
 
 <div style="margin: 0 auto;
     text-align: left;
-    width: 100%;">
+    width: 90%;">
      <a href="https://nfdi4ds.github.io/ds-best-practices/jekyll/2019-04-27-before_research.html"><img src="assets/gitbook/images/before-small.png"
      alt=""
      style="align: center; margin-right: 10px; margin-bottom: 10px; height: 300px; width: 230px;" /></a>
