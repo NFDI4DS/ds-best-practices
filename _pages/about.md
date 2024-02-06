@@ -52,6 +52,10 @@ Georg Rehm [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.pn
 }
 ```
 
+### Feedback
+--------------------------------------------------------------------------------------------
+We consistently maintain this webpage to ensure accuracy and completeness. If you notice any errors or missing information, please do not hesitate to contact one of the authors mentioned above. We will update the site content based on community feedback.
+
 ### Acknowledgements
 --------------------------------------------------------------------------------------------
 
