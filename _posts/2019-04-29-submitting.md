@@ -24,7 +24,7 @@ In this section, you will find recommendations on what should be done when you a
 --------------------------------------------------------------------------------------------
 
 Make sure that all journal/conference submission requirements are met, e.g.:
-1. In case of a double-blinded review, ensure that your paper does not contain information which reveals your identity (directly or indirectly):
+1. In case of a double-blind review, ensure that your paper does not contain information which reveals your identity (directly or indirectly):
 * Remove any identifying information from your paper. These can include titles, author names, affiliations and emails, acknowledgements, conflict of interest statements, and project funding details.
 * Do not include links pointing to your personal repository with code/(meta)data in a paper.
 * Use the third person to refer to your previous work.
