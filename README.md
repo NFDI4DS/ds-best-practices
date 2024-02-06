@@ -10,8 +10,17 @@ This website provides recommendations and tips for young researchers in the fiel
 
 Start your discovery of recommendations and practical tips to fuel your research and publications by navigating these phases using the toolbar or the arrows on the sides of the screen!
 
-<div style="margin-top: 10px;">
-<img src="assets/gitbook/images/best-practices-rounded.png"
+<div style="margin-top: 10px; margin:0 auto;">
+     <a href="https://nfdi4ds.github.io/ds-best-practices/jekyll/2019-04-27-before_research.html"><img src="assets/gitbook/images/before-small.png"
      alt=""
-     style="align: center; margin-right: 10px; margin-bottom: 10px; width: 100%;" />
+     style="align: center; margin-right: 10px; margin-bottom: 10px; width: 23%;" /></a>
+     <a href="https://nfdi4ds.github.io/ds-best-practices/jekyll/2019-04-28-during_research.html"><img src="assets/gitbook/images/during-small.png"
+     alt=""
+     style="align: center; margin-right: 10px; margin-bottom: 10px; width: 23%;" /></a>
+     <a href="https://nfdi4ds.github.io/ds-best-practices/jekyll/2019-04-29-submitting.html"><img src="assets/gitbook/images/submitting-small.png"
+     alt=""
+     style="align: center; margin-right: 10px; margin-bottom: 10px; width: 23%;" /></a>
+     <a href="https://nfdi4ds.github.io/ds-best-practices/jekyll/2021-08-10-publishing.html"><img src="assets/gitbook/images/publishing-small.png"
+     alt=""
+     style="align: center; margin-right: 10px; margin-bottom: 10px; width: 23%;" /></a>
 </div>
