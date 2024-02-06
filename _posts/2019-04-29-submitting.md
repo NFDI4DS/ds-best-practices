@@ -168,46 +168,46 @@ In case you report biases make sure to:
 --------------------------------------------------------------------------------------------
 
 #### Motivation
-State the reason for creating or reusing a KG/RKG, e.g., for specific task(s), a gap in the research field that needed to be filled.
+State the reason for creating or reusing a KG/RKG, e.g., for a specific task or a gap in the research field that needed to be filled.
 
 #### Data and code/models/software
-1. Provide information on data used for your KG/RKG development.
-2. Describe the data collection and pre-processing processes. If you used an existing data, cite the original work.
-3. State instances type/format (e.g., text documents, images, videos, audio files; pdfs, csvs, html).
-4. Make sure to report the language of any linguistic data, even if you are reusing common datasets or benchmarks.
+1. Provide information on data used for your KG/RKG construction and development.
+2. Describe the data collection and pre-processing processes. If you used existing data, cite the original work.
+3. State the type/format of instances in your KG/RKG (e.g., text documents, images, videos, audio files; TXT, JPEG, MP3).
+4. Make sure to report the language of any linguistic data, even if you are reusing common datasets or benchmarks (#benderrule).
 5. Provide information about the total number of observations and (if applicable) label distribution.
 6. Provide information on code/models/software used for KG development. State names, versions, parameters, hyper-parameters, methods and if applicable, the exact number of training and evaluation runs. If you used existing packages, cite the original work.
-
+ 
 
 #### Distribution 
 1. Make your KG/RKG publicly available. 
-2. Publish your KG/RKG under an open access licence.
+2. Publish your KG/RKG under an open-access licence.
 3. Assign a unique identifier (URI) to every entity in the KG/RKG.
 4. Select and use a standardized knowledge representation language (e.g. RDF, OWL, DAML+OIL or JSON LD).
-5. Normalize the types and relations using an appropriate vocabulary/ontology. Assign URI to your ontologies to make them accessible and easy to differentiate from already existing vocabularies:
-  * Use permanent URIs, ensuring its long term availability. Permanent URIs redirect to the actual point of storage of the target resource. Thus, even if the target resource is moved, only its location should be updated but not its URL.
+5. Normalize the types and relations using an appropriate vocabulary/ontology. Assign URIs to your ontologies to make them accessible and easy to differentiate from already existing vocabularies:
+  * Use permanent URIs, ensuring their long-term availability. Permanent URIs redirect to the actual point of storage of the target resource. Thus, even if the target resource is moved, only its location should be updated not its URI.
   * Choose a short and simple name to make it easy for others to remember.
-  * Make sure that the name of your ontology does not overlap with the existing vocabularies.
+  * Make sure that the name of your ontology does not overlap with existing vocabularies.
   * Don’t forget about VC. We encourage you to follow the [Semantic Versioning Principles](https://semver.org).
-* Generate 2 types of (meta)data for the ontology using a standardized knowledge representation language. 
+* Generate 2 types of (meta)data for the ontology using a standardised knowledge representation language. 
 >
->Type I: (Meta)data associated with the ontology itself. It is aimed to provide an overview of your ontology and understand its usage conditions and provenance. It usually includes information on license type, creators, contributors, creation date, previous versions, namespace URI,  version IRI, namespace prefix, title,  description, and citation. 
+>Type I: (Meta)data associated with the ontology itself. It is aimed to provide an overview of your ontology and understand its usage conditions and provenance. It usually includes information on the license type, creators, contributors, creation date, previous versions, namespace URI, version IRI, namespace prefix, title, description, and citation. 
 >
->Type II: (Meta)data associated with ontology elements, namely classes, object and datatype properties,  individuals. It is recommended to provide at least a human-readable label and definition for each ontology term. Additional properties could be  term usage examples, its status (deprecated or under discussion), the rationale for its inclusion in the ontology.
+>Type II: (Meta)data associated with ontology elements, namely classes, objects, datatype properties, and individuals. It is recommended to provide at least a human-readable label and definition for each ontology term. Additional properties could be the term usage examples, its status (deprecated or under discussion), and the rationale for its inclusion in the ontology.
 >
 * Provide a human-readable documentation (e.g., as HTML). For instance, as a starting point you can use [WIDOCO](https://github.com/dgarijo/Widoco) for documentation generation.
-* Create a visualization for your ontology. A graphical representation will contribute to better understanding of the ontology structure, relationships, and usage. 
-* Make the ontology along with its documentation available for the community. Use either domain-specific or domain-generic registry (e.g., [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/)).
+* Create a visualisation for your ontology. A graphical representation will contribute to a better understanding of the ontology structure, relations, and usage. 
+* Make the ontology and its documentation available to the community. Use either domain-specific or domain-generic registries (e.g., [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/)).
 6. Provide (meta)data for your KG/RKG:
 * Document the provenance and context of each assertion of your KG.
 * Use common (meta)data schemas (e.g., [schema.org](https://schema.org)).
-* If possible, state the number of triples, language and vocabularies used, metamap.
+* If possible, state the number of triples, language, and vocabularies used, metamap.
 7. If applicable, make links to other published resources.
-8. Publish related (meta)data in an appropriate certified archive. 
+8. Publish related (meta)data in an appropriately certified archive. 
 9. Create programmatic access points via APIs.
 
 #### Maintenance 
 1. Provide information on who is supporting/hosting/maintaining your KG/RKG.
-2. State whether a KG/RKG will be updated. If yes, describe how often and by whom updates will be maintained as well how they will be documented and communicated (e.g., mailing list, GitHub). Do not forget about VC.
-3. If applicable, describe describe how others could extend, augment or build on your KG/RKG (e.g., through pull requests on GitHub). State the process for tracking and assessing the quality of such contributions.
+2. State whether a KG/RKG will be updated. If yes, describe how often and by whom updates will be maintained as well as how they will be documented and communicated (e.g., via mailing list, GitHub, etc.). Do not forget about VC.
+3. If applicable, describe how others could extend, augment or build on your KG/RKG (e.g., through pull requests on GitHub). State the process for tracking and assessing the quality of such contributions.
 
