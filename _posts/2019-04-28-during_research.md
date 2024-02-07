@@ -38,6 +38,9 @@ In this section, you will find recommendations on how to ensure FAIRness of DS a
 * Prepare tagsets/schemas and annotation guidelines. Those should be shared along with your research.
 * Identify annotation efforts required (How many annotators? Experts vs crowdworkes?).
 * Decide on which Inter Annotator Agreement (IAA) measure(s) to use in order to validate your annotation process.
+>For me details on documenting (meta)data, consult the following resources:
+>* [Hugging Face Dataset Cards](https://huggingface.co/docs/hub/datasets-cards)
+>* T. Gebru, J. Morgenstern, B. Vecchione, et al. Datasheets for Datasets. Communications of the ACM, vol. 64, no. 12, pp. 86–92, Dec. 2021. DOI: [10.1145/3458723](https://doi.org/10.1145/3458723).
 
 ### Code, Models, and Software
 --------------------------------------------------------------------------------------------
@@ -47,6 +50,10 @@ In this section, you will find recommendations on how to ensure FAIRness of DS a
 3. Use Version Control (VC) and external backups to keep track of changes and to avoid data loss.
 4. Constantly check energy consumption. For instance, you can use the [CodeCarbon](https://codecarbon.io) package which estimates the amount of carbon dioxide produced by computing resources and provides some tips on how to decrease emissions.
 
+>For more details on documentaing code/models/software, consult the following resources:
+>* [Hugging Face Model Cards]([https://huggingface.co/docs/hub/datasets-cards](https://huggingface.co/docs/hub/model-cards))
+>* M. Mitchell, S. Wu, A. Zaldivar, et al. Model Cards for Model Reporting. In Proceedings of the Conference on Fairness, Accountability, and Transparency.  Association for Computing Machinery. 2019. DOI: [10.1145/3287560.3287596](http://dx.doi.org/10.1145/3287560.3287596).
+>* The Machine Learning Reproducibility Checklist. Available: <https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf>. 
 
 [^1]: R.C. Martin. Clean Code: A Handbook of Agile Software Craftsmanship. Prentice Hall, Boston, 2008.
 
