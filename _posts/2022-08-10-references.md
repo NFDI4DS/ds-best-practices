@@ -25,4 +25,5 @@ layout: post
 19. C. Bless, I. Baimuratov, O. Karras. SciKGTeX – A LATEXPackage to Semantically Annotate Contributions in Scientific Publication. arXiv: 2304.05327 [cs.DL]. 2023. DOI: [10.48550/arXiv.2304.05327](https://doi.org/10.48550/arXiv.2304.05327).
 20. D. Garijo and M. Poveda-Villalón. Best Practices for Implementing FAIR Vocabularies and Ontologies on the Web. arXiv: 2003.13084 [cs.DL]. 2023. DOI: [10.48550/arXiv.2003.13084](https://doi.org/10.48550/arXiv.2003.13084).
 21. N. Ide and J. Pustejovsky. 2017. Handbook of Linguistic Annotation. Heidelberg: Springer.
-
+22. M. Mitchell, S. Wu, A. Zaldivar, et al. Model Cards for Model Reporting. In Proceedings of the Conference on Fairness, Accountability, and Transparency.  Association for Computing Machinery. 2019. DOI: [10.1145/3287560.3287596](http://dx.doi.org/10.1145/3287560.3287596).
+23. 
