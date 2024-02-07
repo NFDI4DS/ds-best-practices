@@ -55,7 +55,7 @@ In this section, you will find recommendations on how to ensure FAIRness of DS a
 >For more details on documenting code/models/software, consult the following resources:
 >* [Hugging Face Model Cards](https://huggingface.co/docs/hub/model-cards)
 >* M. Mitchell, S. Wu, A. Zaldivar, et al. Model Cards for Model Reporting. In Proceedings of the Conference on Fairness, Accountability, and Transparency.  Association for Computing Machinery. 2019. DOI: [10.1145/3287560.3287596](http://dx.doi.org/10.1145/3287560.3287596).
->* The Machine Learning Reproducibility Checklist. Available: <https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf>. 
+>* [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf). 
 
 [^1]: R.C. Martin. Clean Code: A Handbook of Agile Software Craftsmanship. Prentice Hall, Boston, 2008.
 
