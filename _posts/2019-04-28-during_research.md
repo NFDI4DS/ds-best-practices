@@ -52,7 +52,7 @@ In this section, you will find recommendations on how to ensure FAIRness of DS a
 3. Use Version Control (VC) and external backups to keep track of changes and to avoid data loss.
 4. Constantly check energy consumption. For instance, you can use the [CodeCarbon](https://codecarbon.io) package which estimates the amount of carbon dioxide produced by computing resources and provides some tips on how to decrease emissions.
 
->For more details on documentaing code/models/software, consult the following resources:
+>For more details on documenting code/models/software, consult the following resources:
 >* [Hugging Face Model Cards]([https://huggingface.co/docs/hub/datasets-cards](https://huggingface.co/docs/hub/model-cards)
 >* M. Mitchell, S. Wu, A. Zaldivar, et al. Model Cards for Model Reporting. In Proceedings of the Conference on Fairness, Accountability, and Transparency.  Association for Computing Machinery. 2019. DOI: [10.1145/3287560.3287596](http://dx.doi.org/10.1145/3287560.3287596).
 >* The Machine Learning Reproducibility Checklist. Available: <https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf>. 
