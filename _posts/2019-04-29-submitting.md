@@ -43,7 +43,7 @@ State the reason for creating or re-using a dataset, e.g., for a specific task o
 #### Data composition and format
 1. Describe your data type (raw vs pre-processed).
 2. State the type/format of instances in your data (e.g., text documents, images, videos, audio files; PDF, CSV, HTML, etc.).
-3. Make sure to report the language of any linguistic data, even if you are reusing common datasets or benchmarks ([#benderrule](thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/#:~:text=Eventually%2C%20the%20statement%20of%20the,you%27re%20working%20on.%22)).
+3. Make sure to report the language of any linguistic data, even if you are reusing common datasets or benchmarks [#benderrule](thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/#:~:text=Eventually%2C%20the%20statement%20of%20the,you%27re%20working%20on.%22).
 4. Provide information about the total number of observations and (if applicable) label distribution.
 5. Describe data with rich (meta)data:
 * (Meta)data should clearly and explicitly include the persistent identifier (PID). For more details on PIDs, take a look at the [FAIRCOOKBOOK](https://faircookbook.elixir-europe.org/content/recipes/findability/identifiers.html).
