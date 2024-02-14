@@ -25,11 +25,11 @@ The recommendations are aligned with the typical research timeline associated wi
 ### Authors
 --------------------------------------------------------------------------------------------
 
-Ekaterina Borisova [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-3447-9860) (Deutsches Forschungszentrum für Künstliche Intelligenz, Germany)
+Ekaterina Borisova [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-3447-9860) (Deutsches Forschungszentrum für Künstliche Intelligenz, Germany), ekaterina.borisova@dfki.de
 
-Raia Abu Ahmad [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0004-8720-0116) (Deutsches Forschungszentrum für Künstliche Intelligenz, Germany)
+Raia Abu Ahmad [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0004-8720-0116) (Deutsches Forschungszentrum für Künstliche Intelligenz, Germany), raia.abu_ahmad@dfki.de
 
-Georg Rehm [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-7800-1893)  (Deutsches Forschungszentrum für Künstliche Intelligenz, Germany)
+Georg Rehm [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-7800-1893)  (Deutsches Forschungszentrum für Künstliche Intelligenz, Germany), georg_rehm@dfki.de
 
 
 
