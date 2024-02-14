@@ -115,7 +115,7 @@ In case data falls under legal/ethical restrictions:
 
 #### Data maintenance 
 1. Provide information on who is supporting/hosting/maintaining your dataset (e.g., email address, DOI).
-2. State whether your dataset will be updated. If yes, describe how often and by whom updates will be maintained as well as how they will be documented and communicated (e.g., via mailing list, GitHub, etc.). Do not forget about DVC.
+2. State whether your dataset will be updated. If yes, describe how often and by whom updates will be maintained as well as how they will be documented and communicated (e.g., via mailing list, GitHub, etc.). Do not forget about Data Version Control.
 3. If applicable, describe how others could extend, augment or build on your dataset (e.g., through pull requests on GitHub). State the process for tracking and assessing the quality of such contributions.
 
 >Before submitting a paper, you can assess the FAIRness of your (meta)data with the following tools: 
@@ -189,7 +189,7 @@ State the reason for creating or reusing a KG/RKG, e.g., for a specific task or 
   * Use permanent URIs, ensuring their long-term availability. Permanent URIs redirect to the actual point of storage of the target resource. Thus, even if the target resource is moved, only its location should be updated not its URI.
   * Choose a short and simple name to make it easy for others to remember.
   * Make sure that the name of your ontology does not overlap with existing vocabularies.
-  * Don’t forget about VC. We encourage you to follow the [Semantic Versioning Principles](https://semver.org).
+  * Don’t forget about Version Control. We encourage you to follow the [Semantic Versioning Principles](https://semver.org).
 * Generate 2 types of (meta)data for the ontology using a standardised knowledge representation language. 
 >
 >Type I: (Meta)data associated with the ontology itself. It is aimed to provide an overview of your ontology and understand its usage conditions and provenance. It usually includes information on the license type, creators, contributors, creation date, previous versions, namespace URI, version IRI, namespace prefix, title, description, and citation. 
@@ -209,7 +209,7 @@ State the reason for creating or reusing a KG/RKG, e.g., for a specific task or 
 
 #### Maintenance 
 1. Provide information on who is supporting/hosting/maintaining your KG/RKG.
-2. State whether a KG/RKG will be updated. If yes, describe how often and by whom updates will be maintained as well as how they will be documented and communicated (e.g., via mailing list, GitHub, etc.). Do not forget about VC.
+2. State whether a KG/RKG will be updated. If yes, describe how often and by whom updates will be maintained as well as how they will be documented and communicated (e.g., via mailing list, GitHub, etc.). Do not forget about Version Control .
 3. If applicable, describe how others could extend, augment or build on your KG/RKG (e.g., through pull requests on GitHub). State the process for tracking and assessing the quality of such contributions.
 
 >### tl;dr
