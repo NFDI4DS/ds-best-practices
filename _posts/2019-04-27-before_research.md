@@ -15,7 +15,7 @@ cover: ../assets/gitbook/images/before.svg
 </center>
 <br>
 
-In this section, you will find recommendations for planning and starting FAIR [^1] [^2] [^3] research in Data Science (DS) and Artificial Intelligence (AI). Here and in the next phases, we will focus on how to ensure FAIRness of DS and AI research artifacts such as *(meta)data*, *code, models, software*, and *(research) knowledge graphs* (KGs/RKGs). 
+In this section, you will find recommendations for planning and starting FAIR [^1] [^2] research in Data Science (DS) and Artificial Intelligence (AI). Here and in the next phases, we will focus on how to ensure FAIRness of DS and AI research artifacts such as *(meta)data*, *code, models, software*, and *(research) knowledge graphs* (KGs/RKGs). 
 
 Before diving into the best practices, first try to answer the questions presented in the figure below. Those are aimed to serve as a reference when you plan the project and as a checklist before you start the actual research. 
 
@@ -30,8 +30,7 @@ Before diving into the best practices, first try to answer the questions present
 
 
 [^1]: M. Wilkinson, M. Dumontier, I. Aalbersberg, et al. The FAIR Guiding Principles for Scientific Data Management and Stewardship. Scientific Data, vol. 3, no. 160018, Mar. 2016. DOI: [10.1038/sdata.2016.18.4](https://doi.org/10.1038/sdata.2016.18). 
-[^2]:  M. Wilkinson, M. Dumontier, I. Aalbersberg, et al. The FAIR Guiding Principles for Scientific Data Management and Stewardship. Scientific Data, vol. 3, no. 160018, Mar. 2016. DOI: [10.1038/sdata.2016.18.4](https://doi.org/10.1038/sdata.2016.18). 
-[^3]: N. P. Chue Hong, D.S. Katz, M. Barker, et al. FAIR Principles for Research Software (FAIR4RS Principles), Version 1.0. Zenodo. 2022. DOI: [10.15497/RDA00068](https://doi.org/10.15497/RDA00068).
+[^2]: N. P. Chue Hong, D.S. Katz, M. Barker, et al. FAIR Principles for Research Software (FAIR4RS Principles), Version 1.0. Zenodo. 2022. DOI: [10.15497/RDA00068](https://doi.org/10.15497/RDA00068).
 
 
 ### (Meta)data
@@ -47,12 +46,12 @@ Before diving into the best practices, first try to answer the questions present
 6. Assess resources required, e.g., computational costs for collecting, storing and pre-processing data, and expenses on annotators. 
 
 >Consider the following data search and collection services:
->* RKGs such as [ORKG](https://dl.acm.org/doi/10.1145/3360901.3364435) or [OpenAIRE Graph](https://graph.openaire.eu)
+>* RKGs such as [ORKG](https://orkg.org) or [OpenAIRE Graph](https://graph.openaire.eu)
 >* [Papers With Code](https://paperswithcode.com)  
 >* [Google Dataset Search](https://datasetsearch.research.google.com)
 >* [Kaggle](https://www.kaggle.com/datasets)
 >* [Hugging Face Datasets](https://huggingface.co/docs/datasets/index)
->* [Awesome Public Datasets](https://github.com/awesomedata/.awesome-public-datasets#agriculture)
+>* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 >* [Data.world](https://data.world/search?context=community&entryTypeLabel=dataset&type=resources)
 >* [ELG](https://live.european-language-grid.eu)
 >* Additional useful data collection services are available under *Services Lifecycle* on the [NFDI4DS](https://www.nfdi4datascience.de/services/all/) webpage.
