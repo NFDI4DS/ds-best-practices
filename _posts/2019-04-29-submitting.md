@@ -74,7 +74,7 @@ State the reason for creating or re-using a dataset, e.g., for a specific task o
 * Report packages used with their versions, parameter settings, and accessibility (free/commercial/limited access).
 * Cite the original work for packages used in your code. If no paper exists, include a URL/Digital Object Identifier (DOI)/PID to the website or the repository.
 * If you modified an existing library, report the changes you made.
-2. State whether raw data is available in addition to a cleaned corpus.
+2. State whether raw data is available in addition to a cleaned dataset.
 
 #### Legal/ethical considerations
 In case data falls under legal/ethical restrictions:
@@ -149,7 +149,7 @@ State the reason for creating or reusing code/models/software.
 * Provide contact details and recommended citation, e.g., in a README file or in a separate CITATION file (following the standard citation style for your community).
 5. Publish your code under a licence approved by the open source initiative:
 * Free software licences are usually divided into two broad categories: Copyleft (e.g., GPL, AGPL) and permissive (e.g., BSD, MIT, Apache). The main difference between the two is that a copyleft licence forbids proprietisation, thus not allowing commercial use of any modified versions of the source code/software. We recommend using one of the permissive licences to attract more contributors (including companies), maximise use cases of your code/models/software, and promote modifications and developments of your original work.
-6. Make sure the code can be run out of the box (time- and machine-independent). Make use of [Docker](https://www.docker.com) containers and eventually consider publishing the docker container through a community platform such as [ELG](https://huggingface.co/spaces/katebor/Data_Science_and_AI_Open_Science_Best_Practices).
+6. Make sure the code can be run out of the box (time- and machine-independent). Make use of [Docker](https://www.docker.com) containers and eventually consider publishing the docker container through a community platform such as [ELG](https://live.european-language-grid.eu).
 7. State whether external contributions are allowed. Explain clearly how to contribute (e.g., through pull requests on GitHub). Make sure that all updates go through a review process before being added to the package.
 
 #### Maintenance 
