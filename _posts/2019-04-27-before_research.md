@@ -15,7 +15,7 @@ cover: ../assets/gitbook/images/before.svg
 </center>
 <br>
 
-In this section, you will find recommendations for planning and starting FAIR^1,4 research in Data Science (DS) and Artificial Intelligence (AI). Here and in the next phases, we will focus on how to ensure FAIRness of DS and AI research artifacts such as *(meta)data*, *code, models, software*, and *(research) knowledge graphs* (KGs/RKGs). 
+In this section, you will find recommendations for planning and starting FAIR^1,4^ research in Data Science (DS) and Artificial Intelligence (AI). Here and in the next phases, we will focus on how to ensure FAIRness of DS and AI research artifacts such as *(meta)data*, *code, models, software*, and *(research) knowledge graphs* (KGs/RKGs). 
 
 Before diving into the best practices, first try to answer the questions presented in the figure below. Those are aimed to serve as a reference when you plan the project and as a checklist before you start the actual research. 
 
