@@ -43,7 +43,7 @@ State the reason for creating or re-using a dataset, e.g., for a specific task o
 #### Data composition and format
 1. Describe your data type (raw vs pre-processed).
 2. State the type/format of instances in your data (e.g., text documents, images, videos, audio files; PDF, CSV, HTML, etc.).
-3. Make sure to report the language of any linguistic data, even if you are reusing common datasets or benchmarks (#benderrule).
+3. Make sure to report the language of any linguistic data, even if you are reusing common datasets or benchmarks [#benderrule](thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/#:~:text=Eventually%2C%20the%20statement%20of%20the,you%27re%20working%20on.%22).
 4. Provide information about the total number of observations and (if applicable) label distribution.
 5. Describe data with rich (meta)data:
 * (Meta)data should clearly and explicitly include the persistent identifier (PID). For more details on PIDs, take a look at the [FAIRCOOKBOOK](https://faircookbook.elixir-europe.org/content/recipes/findability/identifiers.html).
@@ -70,11 +70,11 @@ State the reason for creating or re-using a dataset, e.g., for a specific task o
 7. Report whether there are any known errors, sources of noise, or redundancies in your dataset.
 
 #### Data pre-processing 
-1. Describe your pre-processing steps (e.g., tokenisation, part-of-speech tagging, stopwords removal, resolving imbalanced data classes, etc.).
+1. Describe your pre-processing steps (e.g., tokenisation, image resising, resolving imbalanced data classes, etc.).
 * Report packages used with their versions, parameter settings, and accessibility (free/commercial/limited access).
 * Cite the original work for packages used in your code. If no paper exists, include a URL/Digital Object Identifier (DOI)/PID to the website or the repository.
 * If you modified an existing library, report the changes you made.
-2. State whether raw data is available in addition to a cleaned corpus.
+2. State whether raw data is available in addition to a cleaned dataset.
 
 #### Legal/ethical considerations
 In case data falls under legal/ethical restrictions:
@@ -115,7 +115,7 @@ In case data falls under legal/ethical restrictions:
 
 #### Data maintenance 
 1. Provide information on who is supporting/hosting/maintaining your dataset (e.g., email address, DOI).
-2. State whether your dataset will be updated. If yes, describe how often and by whom updates will be maintained as well as how they will be documented and communicated (e.g., via mailing list, GitHub, etc.). Do not forget about DVC.
+2. State whether your dataset will be updated. If yes, describe how often and by whom updates will be maintained as well as how they will be documented and communicated (e.g., via mailing list, GitHub, etc.). Do not forget about Data Version Control.
 3. If applicable, describe how others could extend, augment or build on your dataset (e.g., through pull requests on GitHub). State the process for tracking and assessing the quality of such contributions.
 
 >Before submitting a paper, you can assess the FAIRness of your (meta)data with the following tools: 
@@ -149,7 +149,7 @@ State the reason for creating or reusing code/models/software.
 * Provide contact details and recommended citation, e.g., in a README file or in a separate CITATION file (following the standard citation style for your community).
 5. Publish your code under a licence approved by the open source initiative:
 * Free software licences are usually divided into two broad categories: Copyleft (e.g., GPL, AGPL) and permissive (e.g., BSD, MIT, Apache). The main difference between the two is that a copyleft licence forbids proprietisation, thus not allowing commercial use of any modified versions of the source code/software. We recommend using one of the permissive licences to attract more contributors (including companies), maximise use cases of your code/models/software, and promote modifications and developments of your original work.
-6. Make sure the code can be run out of the box (time- and machine-independent). Make use of [Docker](https://www.docker.com) containers and eventually consider publishing the docker container through a community platform such as [ELG](https://huggingface.co/spaces/katebor/Data_Science_and_AI_Open_Science_Best_Practices).
+6. Make sure the code can be run out of the box (time- and machine-independent). Make use of [Docker](https://www.docker.com) containers and eventually consider publishing the docker container through a community platform such as [ELG](https://live.european-language-grid.eu).
 7. State whether external contributions are allowed. Explain clearly how to contribute (e.g., through pull requests on GitHub). Make sure that all updates go through a review process before being added to the package.
 
 #### Maintenance 
@@ -189,7 +189,7 @@ State the reason for creating or reusing a KG/RKG, e.g., for a specific task or 
   * Use permanent URIs, ensuring their long-term availability. Permanent URIs redirect to the actual point of storage of the target resource. Thus, even if the target resource is moved, only its location should be updated not its URI.
   * Choose a short and simple name to make it easy for others to remember.
   * Make sure that the name of your ontology does not overlap with existing vocabularies.
-  * Don’t forget about VC. We encourage you to follow the [Semantic Versioning Principles](https://semver.org).
+  * Don’t forget about Version Control. We encourage you to follow the [Semantic Versioning Principles](https://semver.org).
 * Generate 2 types of (meta)data for the ontology using a standardised knowledge representation language. 
 >
 >Type I: (Meta)data associated with the ontology itself. It is aimed to provide an overview of your ontology and understand its usage conditions and provenance. It usually includes information on the license type, creators, contributors, creation date, previous versions, namespace URI, version IRI, namespace prefix, title, description, and citation. 
@@ -209,7 +209,7 @@ State the reason for creating or reusing a KG/RKG, e.g., for a specific task or 
 
 #### Maintenance 
 1. Provide information on who is supporting/hosting/maintaining your KG/RKG.
-2. State whether a KG/RKG will be updated. If yes, describe how often and by whom updates will be maintained as well as how they will be documented and communicated (e.g., via mailing list, GitHub, etc.). Do not forget about VC.
+2. State whether a KG/RKG will be updated. If yes, describe how often and by whom updates will be maintained as well as how they will be documented and communicated (e.g., via mailing list, GitHub, etc.). Do not forget about Version Control .
 3. If applicable, describe how others could extend, augment or build on your KG/RKG (e.g., through pull requests on GitHub). State the process for tracking and assessing the quality of such contributions.
 
 >### tl;dr
