@@ -43,7 +43,7 @@ State the reason for creating or re-using a dataset, e.g., for a specific task o
 #### Data composition and format
 1. Describe your data type (raw vs pre-processed).
 2. State the type/format of instances in your data (e.g., text documents, images, videos, audio files; PDF, CSV, HTML, etc.).
-3. Make sure to report the language of any linguistic data, even if you are reusing common datasets or benchmarks (#benderrule).
+3. Make sure to report the language of any linguistic data, even if you are reusing common datasets or benchmarks ([#benderrule](thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/#:~:text=Eventually%2C%20the%20statement%20of%20the,you%27re%20working%20on.%22)).
 4. Provide information about the total number of observations and (if applicable) label distribution.
 5. Describe data with rich (meta)data:
 * (Meta)data should clearly and explicitly include the persistent identifier (PID). For more details on PIDs, take a look at the [FAIRCOOKBOOK](https://faircookbook.elixir-europe.org/content/recipes/findability/identifiers.html).
@@ -70,7 +70,7 @@ State the reason for creating or re-using a dataset, e.g., for a specific task o
 7. Report whether there are any known errors, sources of noise, or redundancies in your dataset.
 
 #### Data pre-processing 
-1. Describe your pre-processing steps (e.g., tokenisation, part-of-speech tagging, stopwords removal, resolving imbalanced data classes, etc.).
+1. Describe your pre-processing steps (e.g., tokenisation, image resising, resolving imbalanced data classes, etc.).
 * Report packages used with their versions, parameter settings, and accessibility (free/commercial/limited access).
 * Cite the original work for packages used in your code. If no paper exists, include a URL/Digital Object Identifier (DOI)/PID to the website or the repository.
 * If you modified an existing library, report the changes you made.
