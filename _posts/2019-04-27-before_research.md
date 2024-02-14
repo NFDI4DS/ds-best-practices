@@ -15,7 +15,7 @@ cover: ../assets/gitbook/images/before.svg
 </center>
 <br>
 
-In this section, you will find recommendations for planning and starting FAIR [^1] [^2] research in Data Science (DS) and Artificial Intelligence (AI). Here and in the next phases, we will focus on how to ensure FAIRness of DS and AI research artifacts such as *(meta)data*, *code, models, software*, and *(research) knowledge graphs* (KGs/RKGs). 
+In this section, you will find recommendations for planning and starting FAIR [^1] [^4] research in Data Science (DS) and Artificial Intelligence (AI). Here and in the next phases, we will focus on how to ensure FAIRness of DS and AI research artifacts such as *(meta)data*, *code, models, software*, and *(research) knowledge graphs* (KGs/RKGs). 
 
 Before diving into the best practices, first try to answer the questions presented in the figure below. Those are aimed to serve as a reference when you plan the project and as a checklist before you start the actual research. 
 
@@ -27,10 +27,6 @@ Before diving into the best practices, first try to answer the questions present
      style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 <br>
 
-
-
-[^1]: M. Wilkinson, M. Dumontier, I. Aalbersberg, et al. The FAIR Guiding Principles for Scientific Data Management and Stewardship. Scientific Data, vol. 3, no. 160018, Mar. 2016. DOI: [10.1038/sdata.2016.18.4](https://doi.org/10.1038/sdata.2016.18). 
-[^2]: N. P. Chue Hong, D.S. Katz, M. Barker, et al. FAIR Principles for Research Software (FAIR4RS Principles), Version 1.0. Zenodo. 2022. DOI: [10.15497/RDA00068](https://doi.org/10.15497/RDA00068).
 
 
 ### (Meta)data
