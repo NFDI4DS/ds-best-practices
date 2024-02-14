@@ -27,7 +27,7 @@ In this section, you will find recommendations on how to ensure FAIRness of DS a
 ### (Meta)data
 --------------------------------------------------------------------------------------------
 
-1. Don’t forget about Data Version Control (DVC) and backups to keep track of changes and to avoid data loss.
+1. Don’t forget about Data Version Control and backups to keep track of changes and to avoid data loss.
 2. If the dataset is planned to be shared with the community, preserve a version of the raw data. This way other researchers will be able to preprocess and use it according to their study goals.
 3. In case of data with sensitive/confidential/personal information:
 * Strong security measures must be taken to prevent data breaches and leakages. Some of the best practices for data protection are listed by [RDMkit](https://rdmkit.elixir-europe.org/data_protection). 
@@ -47,9 +47,9 @@ In this section, you will find recommendations on how to ensure FAIRness of DS a
 ### Code, Models, and Software
 --------------------------------------------------------------------------------------------
 
-1. Follow clean code principles [^1], e.g., include unit tests.
+1. Follow clean code principles [^23], e.g., include unit tests.
 2. Don’t forget to save all your intermediate research results (e.g., evaluation scores along with model parameters) for future analysis.
-3. Use Version Control (VC) and external backups to keep track of changes and to avoid data loss.
+3. Use Version Control and external backups to keep track of changes and to avoid data loss.
 4. Constantly check energy consumption. For instance, you can use the [CodeCarbon](https://codecarbon.io) package which estimates the amount of carbon dioxide produced by computing resources and provides some tips on how to decrease emissions.
 
 >For more details on documenting code/models/software, consult the following resources:
@@ -57,7 +57,6 @@ In this section, you will find recommendations on how to ensure FAIRness of DS a
 >* M. Mitchell, S. Wu, A. Zaldivar, et al. Model Cards for Model Reporting. In Proceedings of the Conference on Fairness, Accountability, and Transparency.  Association for Computing Machinery. 2019. DOI: [10.1145/3287560.3287596](http://dx.doi.org/10.1145/3287560.3287596).
 >* [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf) 
 
-[^1]: R.C. Martin. Clean Code: A Handbook of Agile Software Craftsmanship. Prentice Hall, Boston, 2008.
 
 >### tl;dr
 ><span style="font-size: 1.1em;"><strong>(Meta)data:</strong><span>
