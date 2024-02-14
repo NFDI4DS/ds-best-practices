@@ -47,7 +47,7 @@ In this section, you will find recommendations on how to ensure FAIRness of DS a
 ### Code, Models, and Software
 --------------------------------------------------------------------------------------------
 
-1. Follow clean code principles [^23], e.g., include unit tests.
+1. Follow clean code principles<sup>23</sup>, e.g., include unit tests.
 2. Don’t forget to save all your intermediate research results (e.g., evaluation scores along with model parameters) for future analysis.
 3. Use Version Control and external backups to keep track of changes and to avoid data loss.
 4. Constantly check energy consumption. For instance, you can use the [CodeCarbon](https://codecarbon.io) package which estimates the amount of carbon dioxide produced by computing resources and provides some tips on how to decrease emissions.
