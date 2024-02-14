@@ -28,7 +28,7 @@ In this section, you will find recommendations on how to ensure FAIRness of DS a
 --------------------------------------------------------------------------------------------
 
 1. Don’t forget about Data Version Control (DVC) and backups to keep track of changes and to avoid data loss.
-2. If the dataset is planned to be shared with the community, preserve a version of the raw data. This way other researchers will be able to pre-preprocess and use it according to their study goals.
+2. If the dataset is planned to be shared with the community, preserve a version of the raw data. This way other researchers will be able to preprocess and use it according to their study goals.
 3. In case of data with sensitive/confidential/personal information:
 * Strong security measures must be taken to prevent data breaches and leakages. Some of the best practices for data protection are listed by [RDMkit](https://rdmkit.elixir-europe.org/data_protection). 
 * Appropriate measures must be taken to protect the rights of data subjects (e.g., anonymisation, pseudonymisation, encryption, aggregation).
@@ -36,7 +36,7 @@ In this section, you will find recommendations on how to ensure FAIRness of DS a
 * Decide on an annotation level, approach (manual/semi-automatic/automatic), and tool.
 * Define the required input/output formats and their structure.
 * Prepare tagsets/schemas and annotation guidelines. Those should be shared along with your research.
-* Identify annotation efforts required (How many annotators? Experts vs crowdworkes?).
+* Identify annotation efforts required (How many annotators? Experts vs crowdworkers?).
 * Decide on which Inter Annotator Agreement (IAA) measure(s) to use in order to validate your annotation process.
   
 >For more details on documenting (meta)data, consult the following resources:
