@@ -29,7 +29,7 @@ Ekaterina Borisova [![ORCID](https://orcid.org/sites/default/files/images/orcid_
 
 Raia Abu Ahmad [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0004-8720-0116) (Deutsches Forschungszentrum für Künstliche Intelligenz, Germany), raia.abu_ahmad@dfki.de
 
-Georg Rehm [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-7800-1893)  (Deutsches Forschungszentrum für Künstliche Intelligenz, Germany), georg_rehm@dfki.de
+Georg Rehm [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-7800-1893)  (Deutsches Forschungszentrum für Künstliche Intelligenz, Germany), georg.rehm@dfki.de
 
 
 
